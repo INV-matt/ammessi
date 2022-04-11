@@ -1,341 +1,2722 @@
-Cognome,Nome,Punteggio,Codice Kangourou Scuola,Scuola,Comune
-ABASCIA',ALESSANDRO DONATO,53.5,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-Abbona,Matteo Riccardo,51.5,K005761,I.I.S. 'Copernico - Luxemburg',TORINO
-Amarante,Mattia,47.5,K002105,Liceo Scientifico 'Vittorini',MILANO
-Ambrosino,Simone,52.25.00,K004778,I.I.S. 'Arimondi - Eula',SAVIGLIANO
-Ambrosio,Matteo,52.0,K006156,Liceo Scientifico Statale 'Einstein ',MILANO
-Andrei,Pietro,86.15.00,K000117,Liceo Scientifico Statale 'Cassini',GENOVA
-Angeloni,Cecilia,61.25.00,K001184,Liceo Scientifico Statale 'Calini',BRESCIA
-Anticoli,Giulia,54.25.00,K001306,Europäische Schule München Grundschule,MUNCHEN
-Aprile,Emanuele,53.15.00,K006747,VIGANELLO,0
-Arcadio,Emanuele,50.0,K005761,I.I.S. 'Copernico - Luxemburg',TORINO
-Arduini,Alessandra,108.25.00,K005746,I.C. 'Cavalchini - Moro',VILLAFRANCA DI VERONA
-Augeri,Alessandro,45.25.00,K004408,Liceo Scientifico 'P. Bottoni',MILANO
-Aversano,Lorenzo Antonio,61.0,K005408,Liceo 'Plinio Seniore',ROMA
-BEZZI,ALESSANDRO,59.15.00,K005040,Liceo 'Torricelli - Ballardini',FAENZA
-Baglietto,Luca,68.25.00,K000117,Liceo Scientifico Statale 'Cassini',GENOVA
-Baldari,Vittorio,84.5,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Balma Mion,Luca,67.0,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Baranzini,Milo,63.25.00,K006090,Scuola media 'Giubiasco',GIUBIASCO - SVIZZERA
-Barbeno,Irene,52.25.00,K000041,LEONARDO,BRESCIA
-Barchi,Nicola,59.5,K005040,Liceo 'Torricelli - Ballardini',FAENZA
-Barnabei,Valentina,49.15.00,K006293,Liceo 'Tullio Levi Civita',ROMA
-Barone,Samuel,49.0,K001538,Liceo di Mendrisio,MENDRISIO - SVIZZERA
-Bellotti,Pietro,53.15.00,K006156,Liceo Scientifico Statale 'Einstein ',MILANO
-Benedetti,Tommaso Christoph,51.0,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-Benedetti,Leonardo,47.0,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-Benetton,Andrea,68.25.00,K006118,Liceo Statale 'Ippolito Nievo',PADOVA
-Bernardi,Alberto,53.25.00,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Berselli,Sofia,46.5,K005500,Liceo Classico e Linguistico 'L.A. Muratori - San Carlo',MODENA
-Bertacchi,Francesco,49.5,K001619,I.I.S. 'Cattaneo - Dall'Aglio',CASTELNOVO NE' MONTI
-Betti,Giacomo Riccardo,49.0,K000836,Liceo Scientifico 'Copernico',BOLOGNA
-Bianco,Alessandro,49.15.00,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Bigi,Alessandro,63.5,K004692,Liceo 'Leopardi - Majorana',PORDENONE
-Bignotti,Ludovico,47.0,K004434,I.I.S. 'don L. Milani',MONTICHIARI
-Boaretto,Mattia,68.0,K006118,Liceo Statale 'Ippolito Nievo',PADOVA
-Bollito,Filippo,60.25.00,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Bolognesi,Giulio,75.0,K000829,Liceo Scientifico Statale 'Leonardo da Vinci',FIRENZE
-Boracchi,Maria,66.25.00,K006689,COLLEGIO ALESSANDRO VOLTA,LECCO
-Borghino,Matteo,67.5,K004778,I.I.S. 'Arimondi - Eula',SAVIGLIANO
-Boschetti,Stefano,81.15.00,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Boschi,Francesco,64.25.00,K000829,Liceo Scientifico Statale 'Leonardo da Vinci',FIRENZE
-Bottini,Alessandro Matteo,55.0,K006484,Liceo Scientifico Statale 'Arturo Tosi',BUSTO ARSIZIO
-Bovo,Alessio,52.0,K000872,Liceo Scientifico 'E. Fermi',PADOVA
-Braga,Annalisa,49.25.00,K000210,LICEO SCIENTIFICO STATALE,PIACENZA
-Brambati,Alice,64.0,K005713,Liceo Statale 'Antonio Banfi',VIMERCATE
-Broghetti,Francesco,47.0,K006836,Olivelli-Putelli,Darfo Boario Terme
-Bulgari,Pietro,47.15.00,K000042,Liceo Scientifico 'Nicolò Copernico',BRESCIA
-CARENA,ELENA,71.25.00,K004778,I.I.S. 'Arimondi - Eula',SAVIGLIANO
-Caione,Marco,54.5,K004871,Liceo Scientifico Statale 'A. Volta',FOGGIA
-Calissano,Corrado,92.15.00,K006774,PARINI,MILANO
-Calzolari,Mattia,48.5,K006757,I.I.S. ALDINI VALERIANI,BOLOGNA
-Calzolari,Laura,47.5,K006202,I.I.S. 'Blaise Pascal',MANERBIO
-Cambria,Paolo,66.15.00,K003872,Liceo Scientifico Statale 'Francesco Redi',AREZZO
-Capello,Nicola,54.25.00,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Capogrosso,Giulia,69.0,K005746,I.C. 'Cavalchini - Moro',VILLAFRANCA DI VERONA
-Caprara,Lorenzo,67.5,K000836,Liceo Scientifico 'Copernico',BOLOGNA
-Cardone,Marco,45.5,K005479,Liceo Scientifico 'Galileo Galilei',CATANIA
-Carlier,Roberta,46.25.00,K006156,Liceo Scientifico Statale 'Einstein ',MILANO
-Carpano,Ilaria,49.0,K006862,Liceo Scientifico San Raffaele,Milano
-Caruso,Davide Filippo,73.25.00,K005479,Liceo Scientifico 'Galileo Galilei',CATANIA
-Cassese,Gennaro,57.15.00,K004742,ISIS 'A. Rosmini',PALMA CAMPANIA
-Castro,Enrico,52.25.00,K006586,Liceo classico Statale 'Giovanni Verga',ADRANO
-Castro Garcia,Ramon,56.0,K006216,I.S.I.S. 'A. Malignani',UDINE
-Cater,Alexandru,60.5,K000210,LICEO SCIENTIFICO STATALE,PIACENZA
-Cavaciuti,Francesco,87.0,K001943,Liceo Statale 'Primo Levi',SAN DONATO MILANESE
-Cavalieri,Andrea,59.0,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-Cavallo Perin,Luca,94.5,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Cecchin,Francesco,64.25.00,K004692,Liceo 'Leopardi - Majorana',PORDENONE
-Cencioni,Matteo,51.25.00,K006095,Scuola media 'Pregassona',PREGASSONA - SVIZZERA
-Ceretti,Mattia,48.0,K000041,LEONARDO,BRESCIA
-Cesana,Matteo,77.15.00,K006484,Liceo Scientifico Statale 'Arturo Tosi',BUSTO ARSIZIO
-Cesana,Carlo,50.0,K002105,Liceo Scientifico 'Vittorini',MILANO
-Chen,Giulio,79.5,K006216,I.S.I.S. 'A. Malignani',UDINE
-Chiandetti,Nicola,47.25.00,K000028,Liceo Scientifico 'Lussana',BERGAMO
-Chita,Constantin,65.5,K000836,Liceo Scientifico 'Copernico',BOLOGNA
-Ciccarello,Francesco,50.25.00,K005713,Liceo Statale 'Antonio Banfi',VIMERCATE
-Ciorica,Matilde,57.15.00,K006445,Scuola media Locarno 2 (Morettina) - SVIZZERA,LOCARNO - SVIZZERA
-Cirelli,Margherita,71.15.00,K001184,Liceo Scientifico Statale 'Calini',BRESCIA
-Ciuffardelli,Davide,60.5,K004965,Liceo Scientifico Statale 'A. Tassoni',MODENA
-Civita,Martina,58.25.00,K000042,Liceo Scientifico 'Nicolò Copernico',BRESCIA
-Codeluppi,Dario,46.25.00,K001333,Liceo Statale 'Rinaldo Corso',CORREGGIO
-Comini,Giulia,68.0,K001184,Liceo Scientifico Statale 'Calini',BRESCIA
-Consoli,Claudio,46.15.00,K006673,Ecole européenne Luxembourg II,BERTRANGE
-Copetti,Federico,63.25.00,K006216,I.S.I.S. 'A. Malignani',UDINE
-Coppi,Matteo,77.0,K001184,Liceo Scientifico Statale 'Calini',BRESCIA
-Coppola,Pietro,94.5,K006156,Liceo Scientifico Statale 'Einstein ',MILANO
-Corona,Emanuele,79.25.00,K000286,Liceo Scientifico 'C. Cattaneo',TORINO
-Corso,Giovanni,76.15.00,K006216,I.S.I.S. 'A. Malignani',UDINE
-Cortinovis,Paolo,78.25.00,K000028,Liceo Scientifico 'Lussana',BERGAMO
-Costantini,Federico,71.15.00,K006684,ISTITUTO PONTIFICIO SANT'APOLLINARE,ROMA
-Cotichella,Simone,64.5,K006893,Istituto di Istruzione Superiore J.C. Maxwell,Nichelino​
-Cova,Alice,47.15.00,K000836,Liceo Scientifico 'Copernico',BOLOGNA
-Cretti,Zoe,49.5,K001498,Liceo 'Camillo Golgi',BRENO
-Criscione,Giorgio,53.0,K005761,I.I.S. 'Copernico - Luxemburg',TORINO
-Croce,Camilla,59.5,K006333,I.I.S. 'Saraceno - Romegialli',MORBEGNO
-Cusimano,Andrea,60.25.00,K006293,Liceo 'Tullio Levi Civita',ROMA
-D'Amelio Qosja,Brandon,63.25.00,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-D'Ascoli,Pasquale,52.15.00,K004742,ISIS 'A. Rosmini',PALMA CAMPANIA
-DELL'ORTO,REBECCA,101.15.00,K002059,I.C. 3° 'De Amicis',LISSONE
-Dalai,Silvia,56.0,K006202,I.I.S. 'Blaise Pascal',MANERBIO
-Damiano,Luigi,46.15.00,K001506,Galilei - Moro,MANFREDONIA
-De Finis,Giuseppe,96.15.00,K001040,Liceo Scientifico Statale 'Fanti',CARPI
-De Leeuw,Valentino,60.0,K006202,I.I.S. 'Blaise Pascal',MANERBIO
-De Marco,Federico,51.5,K002070,Istituto Superiore Statale,CONEGLIANO
-De Sa’Pinto,Francesco Jude,55.25.00,K006118,Liceo Statale 'Ippolito Nievo',PADOVA
-Del Negro,Stefano,62.5,K006139,ISIS 'Paschini Linussio',TOLMEZZO
-Demidovich,Alexander,61.15.00,K004931,Liceo Scientifico 'Giordano Bruno',ALBENGA
-Di Franco,Francesco,55.0,K006135,ITIS 'sen. O. Jannuzzi',ANDRIA
-Di Leonforte,Lorenzo,48.0,K005479,Liceo Scientifico 'Galileo Galilei',CATANIA
-Dogali,Francesco,48.15.00,K004931,Liceo Scientifico 'Giordano Bruno',ALBENGA
-Dorsaneo,Rebecca,45.25.00,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-Dosio,Alessandro,70.5,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Dovier,Alessandro,59.0,K000827,Liceo Scientifico Statale 'Giovanni Marinelli',UDINE
-Drago,Leonardo,59.15.00,K000028,Liceo Scientifico 'Lussana',BERGAMO
-Durando,Lisa,60.0,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Durante,Giada,50.0,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Elia,Francesco,46.25.00,K000836,Liceo Scientifico 'Copernico',BOLOGNA
-Fabbris,Federico,78.25.00,K006484,Liceo Scientifico Statale 'Arturo Tosi',BUSTO ARSIZIO
-Fabbris,Francesco,59.25.00,K000872,Liceo Scientifico 'E. Fermi',PADOVA
-Fanelli,Chiara,59.25.00,K005408,Liceo 'Plinio Seniore',ROMA
-Fantoni,Alessia,58.25.00,K000829,Liceo Scientifico Statale 'Leonardo da Vinci',FIRENZE
-Fantuzzi,Matteo,58.5,K003860,Liceo Classico Scientifico 'Ariosto Spallanzani',REGGIO EMILIA
-Fava,Francesco,48.5,K000027,Liceo Scientifico Statale 'Lorenzo Mascheroni',BERGAMO
-Ferrari,Kimi,60.25.00,K000260,Liceo 'Lugano 2',SAVOSA - SVIZZERA
-Ferrari,Fabio,46.15.00,K003872,Liceo Scientifico Statale 'Francesco Redi',AREZZO
-Fierro,Giuseppe,64.5,K005408,Liceo 'Plinio Seniore',ROMA
-Filippa,Edoardo,54.5,K005761,I.I.S. 'Copernico - Luxemburg',TORINO
-Fiorini,Leonardo,57.0,K006836,Olivelli-Putelli,Darfo Boario Terme
-Formigaro,Daniel,82.5,K000872,Liceo Scientifico 'E. Fermi',PADOVA
-Franceschetti,Viola,57.25.00,K000042,Liceo Scientifico 'Nicolò Copernico',BRESCIA
-Francisetti,Davide,79.25.00,K006365,I.C. Statale 'Parri - Vian',TORINO
-Franzoso,Jacopo,60.25.00,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-Frassine,Samuele,46.25.00,K006553,I.I.S. 'Giacomo Antonietti',ISEO
-Fruggeri,Frida,46.0,K005500,Liceo Classico e Linguistico 'L.A. Muratori - San Carlo',MODENA
-Fusco,Alessia,66.0,K000216,Liceo Scientifico 'U. Dini',PISA
-Galavotti,Simone,49.25.00,K004965,Liceo Scientifico Statale 'A. Tassoni',MODENA
-Garavana,Andrea,45.0,K001297,Istituto Internazionale 'Edoardo Agnelli',TORINO
-Gariboldi,Lisa,47.5,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-Gariglio,Francesco,98.25.00,K005689,I.C. di Poirino,POIRINO
-Gastaldi,Fabio,46.25.00,K000868,I.T.A.S. 'A. Trentin',LONIGO
-Gavazzi,Marco,62.0,K001184,Liceo Scientifico Statale 'Calini',BRESCIA
-Gavrilita,Kirill,68.0,K000042,Liceo Scientifico 'Nicolò Copernico',BRESCIA
-Genalti,Pierpaolo,54.5,K003872,Liceo Scientifico Statale 'Francesco Redi',AREZZO
-Geronimi,Diamantea,48.25.00,K001498,Liceo 'Camillo Golgi',BRENO
-Ghebriel,Thomas,68.0,K000042,Liceo Scientifico 'Nicolò Copernico',BRESCIA
-Gherbi,Matteo,62.15.00,K006333,I.I.S. 'Saraceno - Romegialli',MORBEGNO
-Ghidelli,Valentin,48.25.00,K006156,Liceo Scientifico Statale 'Einstein ',MILANO
-Gioppo,Valentina,58.0,K001297,Istituto Internazionale 'Edoardo Agnelli',TORINO
-Giordano,Yuri,49.25.00,K006118,Liceo Statale 'Ippolito Nievo',PADOVA
-Gioso,Pietro,53.0,K006118,Liceo Statale 'Ippolito Nievo',PADOVA
-Girlando,Luca,62.15.00,K004965,Liceo Scientifico Statale 'A. Tassoni',MODENA
-Goffelli,Alessandro,65.0,K000042,Liceo Scientifico 'Nicolò Copernico',BRESCIA
-Gola,Giorgio,68.0,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Grigore,Andrei,68.25.00,K000260,Liceo 'Lugano 2',SAVOSA - SVIZZERA
-Grioni,Caterina,56.15.00,K005382,Istituto 'Zaccaria' - Licei,MILANO
-Guidacci,Michele,62.0,K004871,Liceo Scientifico Statale 'A. Volta',FOGGIA
-Guo,Yang,46.0,K006340,I.I.S. 'Blaise Pascal',REGGIO EMILIA
-HU,LEO,71.25.00,K006156,Liceo Scientifico Statale 'Einstein ',MILANO
-Helmi,Davide,65.25.00,K005408,Liceo 'Plinio Seniore',ROMA
-IANNICIELLO,LETIZIA,47.15.00,K006271,Liceo Scientifico 'P.S. Mancini',AVELLINO
-Iaccarino,Chiara,61.5,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Iacobacci,Francesco,53.0,K000048,Liceo Scientifico Statale 'A. Romita',CAMPOBASSO
-Iannaccone,Matilde,89.5,K000216,Liceo Scientifico 'U. Dini',PISA
-Introvigne,Martina,55.15.00,K002070,Istituto Superiore Statale,CONEGLIANO
-Iori,Stefano,54.0,K006156,Liceo Scientifico Statale 'Einstein ',MILANO
-Jurina,Alessio,54.25.00,K006862,Liceo Scientifico San Raffaele,Milano
-Kertesz,Raul,71.0,K000048,Liceo Scientifico Statale 'A. Romita',CAMPOBASSO
-La Manna,Massimo,51.15.00,K006586,Liceo classico Statale 'Giovanni Verga',ADRANO
-Li,Feixiang,66.0,K000117,Liceo Scientifico Statale 'Cassini',GENOVA
-Lionetti,Davide,51.5,K000117,Liceo Scientifico Statale 'Cassini',GENOVA
-Lodrini,Francesco Maria,72.15.00,K000042,Liceo Scientifico 'Nicolò Copernico',BRESCIA
-Lonigro,Cristian,102.0,K000216,Liceo Scientifico 'U. Dini',PISA
-Lucibello,Giampiero,66.25.00,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-Lupi,Maria Beatrice,108.25.00,K003860,Liceo Classico Scientifico 'Ariosto Spallanzani',REGGIO EMILIA
-MEINDL,GIOVANNI,103.25.00,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Maestro,Alberto,49.0,K000216,Liceo Scientifico 'U. Dini',PISA
-Maifredi,Gabriele,63.25.00,K006553,I.I.S. 'Giacomo Antonietti',ISEO
-Maio,Cristian,45.0,K006229,Istituto Tecnico Industriale 'G.B. Bosco Lucarelli',BENEVENTO
-Maj,Rocco,48.15.00,K006156,Liceo Scientifico Statale 'Einstein ',MILANO
-Malcaus,Matteo,51.15.00,K001943,Liceo Statale 'Primo Levi',SAN DONATO MILANESE
-Manfredi,Luca,67.15.00,K000041,LEONARDO,BRESCIA
-Mannari,Giulio,87.0,K000216,Liceo Scientifico 'U. Dini',PISA
-Marazza,Samuele,55.5,K006090,Scuola media 'Giubiasco',GIUBIASCO - SVIZZERA
-Marcenaro,Giovanni,60.25.00,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-Marchio,Ilenia,67.0,K006094,Scuola media 'Stabio',STABIO - SVIZZERA
-Marconi,David,63.15.00,K000829,Liceo Scientifico Statale 'Leonardo da Vinci',FIRENZE
-Mariani,Davide,72.0,K005713,Liceo Statale 'Antonio Banfi',VIMERCATE
-Mariani,Riccardo,45.5,K004408,Liceo Scientifico 'P. Bottoni',MILANO
-Marin,Andrea,70.25.00,K002070,Istituto Superiore Statale,CONEGLIANO
-Marini,Matteo,83.25.00,K001184,Liceo Scientifico Statale 'Calini',BRESCIA
-Marino,Paolo,50.5,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-Mariotto,Andrea,59.0,K002070,Istituto Superiore Statale,CONEGLIANO
-Masini,Carlo Ermanno,51.0,K006774,PARINI,MILANO
-Masoero,Alessandro,50.0,K004778,I.I.S. 'Arimondi - Eula',SAVIGLIANO
-Mastrangelo,Roberta,54.0,K000048,Liceo Scientifico Statale 'A. Romita',CAMPOBASSO
-Mattolini,Giovanni,45.0,K000216,Liceo Scientifico 'U. Dini',PISA
-Mazzini,Mattia Mirco,70.25.00,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-Medves,Riccardo,60.25.00,K006216,I.S.I.S. 'A. Malignani',UDINE
-Mellace,Emma Francesca,55.25.00,K002105,Liceo Scientifico 'Vittorini',MILANO
-Menconi,Lorenzo,55.5,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-Michetti,Jacopo,54.5,K000028,Liceo Scientifico 'Lussana',BERGAMO
-Mioni,Tommaso,50.25.00,K001882,Liceo Classico Statale 'Tito Livio',PADOVA
-Mistrorigo,Diego,46.5,K000868,I.T.A.S. 'A. Trentin',LONIGO
-Morari,Lorenzo,47.5,K000868,I.T.A.S. 'A. Trentin',LONIGO
-Moressa,Giulio,53.25.00,K000872,Liceo Scientifico 'E. Fermi',PADOVA
-Moriconi,Taddeo,52.25.00,K000216,Liceo Scientifico 'U. Dini',PISA
-Moro,Gabriella,70.5,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-Mosele,Giacomo,69.25.00,K000117,Liceo Scientifico Statale 'Cassini',GENOVA
-Motta,Carlo,58.25.00,K006893,Istituto di Istruzione Superiore J.C. Maxwell,Nichelino​
-Mottese,Marco,97.0,K000286,Liceo Scientifico 'C. Cattaneo',TORINO
-Muraro,Viola,48.0,K004408,Liceo Scientifico 'P. Bottoni',MILANO
-Napoli,Andrea,61.15.00,K000027,Liceo Scientifico Statale 'Lorenzo Mascheroni',BERGAMO
-Negri,Francesco,53.25.00,K002105,Liceo Scientifico 'Vittorini',MILANO
-Nicoletti,Giacomo,55.0,K000872,Liceo Scientifico 'E. Fermi',PADOVA
-Nitz,Emma,53.0,K001498,Liceo 'Camillo Golgi',BRENO
-Nizzolo,Jacopo,68.25.00,K004830,Centro Salesiano 'don Bosco',TREVIGLIO
-Oggioni,Anna,63.25.00,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Olive,Rosa,46.0,K002105,Liceo Scientifico 'Vittorini',MILANO
-Olivieri,Matteo,53.0,K001506,Galilei - Moro,MANFREDONIA
-Ongaretti,Stefano,53.0,K000042,Liceo Scientifico 'Nicolò Copernico',BRESCIA
-Ordanini,Matteo,54.0,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-PACCO,LUCA,59.25.00,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Pagani,Elena,48.25.00,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-Pagliato,Gabriele,46.5,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-Pantini,Leonardo,61.15.00,K000027,Liceo Scientifico Statale 'Lorenzo Mascheroni',BERGAMO
-Pasqui,Laura,51.5,K004408,Liceo Scientifico 'P. Bottoni',MILANO
-Patocchi,Gabriele,53.15.00,K000260,Liceo 'Lugano 2',SAVOSA - SVIZZERA
-Pavarini,Federica,66.25.00,K006559,Liceo Scientifico 'Guglielmo Marconi',FOGGIA
-Pedersoli,Filippo,51.25.00,K001498,Liceo 'Camillo Golgi',BRENO
-Pedrali Noy,Federico,52.0,K006095,Scuola media 'Pregassona',PREGASSONA - SVIZZERA
-Pegno,Mattia,45.25.00,K000027,Liceo Scientifico Statale 'Lorenzo Mascheroni',BERGAMO
-Pellegriti,Giuseppe,45.25.00,K006586,Liceo classico Statale 'Giovanni Verga',ADRANO
-Pelloni,Elia,66.5,K006090,Scuola media 'Giubiasco',GIUBIASCO - SVIZZERA
-Peluso,Carmine,50.25.00,K004742,ISIS 'A. Rosmini',PALMA CAMPANIA
-Peressini,Eleonora,52.5,K000827,Liceo Scientifico Statale 'Giovanni Marinelli',UDINE
-Perico,Alessandro,89.5,K000027,Liceo Scientifico Statale 'Lorenzo Mascheroni',BERGAMO
-Perler,Linda,47.0,K006912,SCUOLA MEDIA MORBIO,MORBIO INFERIORE
-Piccione,Alessandro,60.25.00,K005461,I.I.S. 'Mazzini',VITTORIA
-Picciurro,Gaia,66.25.00,K001297,Istituto Internazionale 'Edoardo Agnelli',TORINO
-Picotti,Cristian,52.0,K006553,I.I.S. 'Giacomo Antonietti',ISEO
-Pierini,Elio,50.5,K005408,Liceo 'Plinio Seniore',ROMA
-Pieroni,Vittoria,54.0,K003872,Liceo Scientifico Statale 'Francesco Redi',AREZZO
-Pinton,Simone,56.0,K000872,Liceo Scientifico 'E. Fermi',PADOVA
-Plebani,Giovanni,54.15.00,K000041,LEONARDO,BRESCIA
-Plodari,Andrea Pavel,65.25.00,K001184,Liceo Scientifico Statale 'Calini',BRESCIA
-Poggi,Alessandro,54.25.00,K001882,Liceo Classico Statale 'Tito Livio',PADOVA
-Policriti,Luca,45.0,K005408,Liceo 'Plinio Seniore',ROMA
-Pone,Ruggero,63.25.00,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Portella,Francesco,67.0,K000117,Liceo Scientifico Statale 'Cassini',GENOVA
-Portolan,Annachiara,63.25.00,K004692,Liceo 'Leopardi - Majorana',PORDENONE
-Potenza,Niccolò,49.5,K006293,Liceo 'Tullio Levi Civita',ROMA
-Pozzali,Caterina,68.25.00,K001184,Liceo Scientifico Statale 'Calini',BRESCIA
-Pozzi,Andrea,46.0,K000895,Liceo Scientifico 'E. Fermi',CANTU'
-Pozzobon,Tommaso,62.0,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Procacci,Elisa,70.25.00,K005761,I.I.S. 'Copernico - Luxemburg',TORINO
-Quaglia,Sofia,72.15.00,K000210,LICEO SCIENTIFICO STATALE,PIACENZA
-RAVERA,BENIAMINO,70.5,K006774,PARINI,MILANO
-Rabasco,Emanuele,58.0,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-Racolta,Dorian,68.25.00,K000042,Liceo Scientifico 'Nicolò Copernico',BRESCIA
-Rainone,Emy,46.25.00,K006095,Scuola media 'Pregassona',PREGASSONA - SVIZZERA
-Ranchetti,Paolo,58.25.00,K001498,Liceo 'Camillo Golgi',BRENO
-Ravasio,Luca,47.15.00,K000028,Liceo Scientifico 'Lussana',BERGAMO
-Reali,Andrea,53.25.00,K003872,Liceo Scientifico Statale 'Francesco Redi',AREZZO
-Richini,Davide,52.5,K006836,Olivelli-Putelli,Darfo Boario Terme
-Righetti,Elia,68.5,K006848,"""A. MESSEDAGLIA""",VERONA
-Righetti,Matteo,54.25.00,K000836,Liceo Scientifico 'Copernico',BOLOGNA
-Rossi,Andrea,62.15.00,K006553,I.I.S. 'Giacomo Antonietti',ISEO
-Rossi Barbanotti,Enea,46.5,K004408,Liceo Scientifico 'P. Bottoni',MILANO
-Rotondaro,Alberto,72.15.00,K000885,Liceo Scientifico 'Galileo Ferraris',TORINO
-Ruan,Jiahao,47.5,K000836,Liceo Scientifico 'Copernico',BOLOGNA
-Rubini,Samuele,67.0,K006342,I.I.S. 'Falcone - Righi',CORSICO
-Rudelli,Francesco,64.25.00,K000027,Liceo Scientifico Statale 'Lorenzo Mascheroni',BERGAMO
-Rudelli,Filippo,53.15.00,K000027,Liceo Scientifico Statale 'Lorenzo Mascheroni',BERGAMO
-SFERRUZZA,ALESSIO,67.15.00,K003860,Liceo Classico Scientifico 'Ariosto Spallanzani',REGGIO EMILIA
-Sacchi,Roberto,54.5,K006342,I.I.S. 'Falcone - Righi',CORSICO
-Sain,Rahul,57.15.00,K006445,Scuola media Locarno 2 (Morettina) - SVIZZERA,LOCARNO - SVIZZERA
-Saita,Riccardo,75.5,K000028,Liceo Scientifico 'Lussana',BERGAMO
-Salini,Beatrice,52.15.00,K000210,LICEO SCIENTIFICO STATALE,PIACENZA
-Salvadori,Francesco,68.0,K003872,Liceo Scientifico Statale 'Francesco Redi',AREZZO
-Sanclemente,Tommaso,57.5,K003872,Liceo Scientifico Statale 'Francesco Redi',AREZZO
-Sangoi,Rebecca,50.25.00,K000827,Liceo Scientifico Statale 'Giovanni Marinelli',UDINE
-Scarpari,Lorenzo,55.25.00,K006553,I.I.S. 'Giacomo Antonietti',ISEO
-Scerpella,Enea,50.0,K006396,Liceo cantonale di Bellinzona,BELLINZONA - SVIZZERA
-Schena,Enrique,52.0,K001538,Liceo di Mendrisio,MENDRISIO - SVIZZERA
-Scicolone,Salvatore Patrick Maria,53.25.00,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-Sclauzero,Michele,68.0,K006216,I.S.I.S. 'A. Malignani',UDINE
-Sconziano,Andrea,57.25.00,K002105,Liceo Scientifico 'Vittorini',MILANO
-Scorletti,Lucia,52.0,K002105,Liceo Scientifico 'Vittorini',MILANO
-Sergio,Alessio,55.5,K001885,Liceo Scientifico 'Leonardo da Vinci',MILANO
-Shi,Xinnan,49.25.00,K006484,Liceo Scientifico Statale 'Arturo Tosi',BUSTO ARSIZIO
-Sibillo,Isabella,62.15.00,K006721,ISTITUTO LEONE XIII,MILANO
-Sigismondi,Simone,83.0,K000028,Liceo Scientifico 'Lussana',BERGAMO
-Sigolo,Sara,71.15.00,K006908,Associazione Culturale StemUp,Roma
-Stampanoni,Selina,69.0,K000260,Liceo 'Lugano 2',SAVOSA - SVIZZERA
-Stampetta,Riccardo,65.0,K006216,I.S.I.S. 'A. Malignani',UDINE
-Stimamiglio,Francesco,45.0,K001882,Liceo Classico Statale 'Tito Livio',PADOVA
-Stoica,Raluca,57.5,K005408,Liceo 'Plinio Seniore',ROMA
-TURCONI,ALESSANDRO,72.0,K006484,Liceo Scientifico Statale 'Arturo Tosi',BUSTO ARSIZIO
-Tagiullo,Leonardo,58.25.00,K006684,ISTITUTO PONTIFICIO SANT'APOLLINARE,ROMA
-Tagliatti,Giulia,65.15.00,K004965,Liceo Scientifico Statale 'A. Tassoni',MODENA
-Tarantino,Matteo,53.15.00,K000117,Liceo Scientifico Statale 'Cassini',GENOVA
-Tengattini,Cristian,50.25.00,K006553,I.I.S. 'Giacomo Antonietti',ISEO
-Terzi,Francesco,47.0,K001333,Liceo Statale 'Rinaldo Corso',CORREGGIO
-Todde,Lorenzo,78.0,K000117,Liceo Scientifico Statale 'Cassini',GENOVA
-Toniolo,Giulia,72.0,K006484,Liceo Scientifico Statale 'Arturo Tosi',BUSTO ARSIZIO
-Toscano,Alice,58.25.00,K001297,Istituto Internazionale 'Edoardo Agnelli',TORINO
-Traversin,Samuele,58.15.00,K006368,I.I.S. 'Einaudi - Scarpa',MONTEBELLUNA
-Trivelloni,Rebecca,58.0,K000872,Liceo Scientifico 'E. Fermi',PADOVA
-Turati,Carlo,83.25.00,K006848,"""A. MESSEDAGLIA""",VERONA
-Urbano,Giorgia,46.15.00,K006559,Liceo Scientifico 'Guglielmo Marconi',FOGGIA
-Valseriati,Marco,72.0,K001184,Liceo Scientifico Statale 'Calini',BRESCIA
-Van der Zijde,Loek,97.0,K004965,Liceo Scientifico Statale 'A. Tassoni',MODENA
-Vendramin,Alessandro,59.5,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Venturelli,Leon,56.25.00,K001619,I.I.S. 'Cattaneo - Dall'Aglio',CASTELNOVO NE' MONTI
-Vianello,Alberto,82.15.00,K006216,I.S.I.S. 'A. Malignani',UDINE
-Vicini,Filippo,54.0,K006553,I.I.S. 'Giacomo Antonietti',ISEO
-Vigevano,Riccardo,45.25.00,K001943,Liceo Statale 'Primo Levi',SAN DONATO MILANESE
-Vigliotta,Maria,82.0,K001040,Liceo Scientifico Statale 'Fanti',CARPI
-Visca,Alessandro,109.5,K000286,Liceo Scientifico 'C. Cattaneo',TORINO
-Vitarelli,Emanuele,57.0,K000048,Liceo Scientifico Statale 'A. Romita',CAMPOBASSO
-Vodopivec,Yuri,81.25.00,K000827,Liceo Scientifico Statale 'Giovanni Marinelli',UDINE
-Wu,Chen Xi,71.15.00,K000872,Liceo Scientifico 'E. Fermi',PADOVA
-Ye,Perla,60.25.00,K004965,Liceo Scientifico Statale 'A. Tassoni',MODENA
-Zambaiti,Thomas,64.25.00,K005421,Istituto Omnicomprensivo di Tarvisio,TARVISIO
-Zanetti,Giacomo,51.25.00,K000827,Liceo Scientifico Statale 'Giovanni Marinelli',UDINE
-Zanta,Francesco,71.25.00,K000291,Liceo Scientifico 'Leonardo da Vinci',TREVISO
-Zedda,Filippo Maria,78.0,K000117,Liceo Scientifico Statale 'Cassini',GENOVA
-Zhang,Jianxiang Nicola,73.0,K006848,"""A. MESSEDAGLIA""",VERONA
-Zhou,Gianni,55.25.00,K003872,Liceo Scientifico Statale 'Francesco Redi',AREZZO
-Zingaro,Nicola,48.25.00,K000048,Liceo Scientifico Statale 'A. Romita',CAMPOBASSO
-Zoppetti,Matteo,59.0,K000028,Liceo Scientifico 'Lussana',BERGAMO
-bavieri,Christian,53.25.00,K004965,Liceo Scientifico Statale 'A. Tassoni',MODENA
-burei,lorenzo,58.15.00,K006156,Liceo Scientifico Statale 'Einstein ',MILANO
-cian,pietro,56.25.00,K001882,Liceo Classico Statale 'Tito Livio',PADOVA
-de Marco,Valentina,70.5,K000299,Liceo Scientifico Statale 'Niccolò Copernico',UDINE
-iocca,emanuele,48.0,K000048,Liceo Scientifico Statale 'A. Romita',CAMPOBASSO
-la malfa,sofia,48.25.00,K004692,Liceo 'Leopardi - Majorana',PORDENONE
-longo,ruggero,58.15.00,K001882,Liceo Classico Statale 'Tito Livio',PADOVA
-maroni,giovanni battista,52.0,K001498,Liceo 'Camillo Golgi',BRENO
-massa,matteo,97.0,K004912,Liceo Scientifico Statale 'G. Marconi',CARRARA
-mauri,mattia,66.15.00,K006095,Scuola media 'Pregassona',PREGASSONA - SVIZZERA
+[
+  {
+    "Cognome": "ABASCIA'",
+    "Nome": "ALESSANDRO DONATO",
+    "Punteggio": 53.5,
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Abbona",
+    "Nome": "Matteo Riccardo",
+    "Punteggio": 51.5,
+    "Codice Kangourou Scuola": "K005761",
+    "Scuola": "I.I.S. 'Copernico - Luxemburg'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Amarante",
+    "Nome": "Mattia",
+    "Punteggio": 47.5,
+    "Codice Kangourou Scuola": "K002105",
+    "Scuola": "Liceo Scientifico 'Vittorini'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Ambrosino",
+    "Nome": "Simone",
+    "Punteggio": "52.25.00",
+    "Codice Kangourou Scuola": "K004778",
+    "Scuola": "I.I.S. 'Arimondi - Eula'",
+    "Comune": "SAVIGLIANO"
+  },
+  {
+    "Cognome": "Ambrosio",
+    "Nome": "Matteo",
+    "Punteggio": 52,
+    "Codice Kangourou Scuola": "K006156",
+    "Scuola": "Liceo Scientifico Statale 'Einstein '",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Andrei",
+    "Nome": "Pietro",
+    "Punteggio": "86.15.00",
+    "Codice Kangourou Scuola": "K000117",
+    "Scuola": "Liceo Scientifico Statale 'Cassini'",
+    "Comune": "GENOVA"
+  },
+  {
+    "Cognome": "Angeloni",
+    "Nome": "Cecilia",
+    "Punteggio": "61.25.00",
+    "Codice Kangourou Scuola": "K001184",
+    "Scuola": "Liceo Scientifico Statale 'Calini'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Anticoli",
+    "Nome": "Giulia",
+    "Punteggio": "54.25.00",
+    "Codice Kangourou Scuola": "K001306",
+    "Scuola": "Europäische Schule München Grundschule",
+    "Comune": "MUNCHEN"
+  },
+  {
+    "Cognome": "Aprile",
+    "Nome": "Emanuele",
+    "Punteggio": "53.15.00",
+    "Codice Kangourou Scuola": "K006747",
+    "Scuola": "VIGANELLO",
+    "Comune": 0
+  },
+  {
+    "Cognome": "Arcadio",
+    "Nome": "Emanuele",
+    "Punteggio": 50,
+    "Codice Kangourou Scuola": "K005761",
+    "Scuola": "I.I.S. 'Copernico - Luxemburg'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Arduini",
+    "Nome": "Alessandra",
+    "Punteggio": "108.25.00",
+    "Codice Kangourou Scuola": "K005746",
+    "Scuola": "I.C. 'Cavalchini - Moro'",
+    "Comune": "VILLAFRANCA DI VERONA"
+  },
+  {
+    "Cognome": "Augeri",
+    "Nome": "Alessandro",
+    "Punteggio": "45.25.00",
+    "Codice Kangourou Scuola": "K004408",
+    "Scuola": "Liceo Scientifico 'P. Bottoni'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Aversano",
+    "Nome": "Lorenzo Antonio",
+    "Punteggio": 61,
+    "Codice Kangourou Scuola": "K005408",
+    "Scuola": "Liceo 'Plinio Seniore'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "BEZZI",
+    "Nome": "ALESSANDRO",
+    "Punteggio": "59.15.00",
+    "Codice Kangourou Scuola": "K005040",
+    "Scuola": "Liceo 'Torricelli - Ballardini'",
+    "Comune": "FAENZA"
+  },
+  {
+    "Cognome": "Baglietto",
+    "Nome": "Luca",
+    "Punteggio": "68.25.00",
+    "Codice Kangourou Scuola": "K000117",
+    "Scuola": "Liceo Scientifico Statale 'Cassini'",
+    "Comune": "GENOVA"
+  },
+  {
+    "Cognome": "Baldari",
+    "Nome": "Vittorio",
+    "Punteggio": 84.5,
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Balma Mion",
+    "Nome": "Luca",
+    "Punteggio": 67,
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Baranzini",
+    "Nome": "Milo",
+    "Punteggio": "63.25.00",
+    "Codice Kangourou Scuola": "K006090",
+    "Scuola": "Scuola media 'Giubiasco'",
+    "Comune": "GIUBIASCO - SVIZZERA"
+  },
+  {
+    "Cognome": "Barbeno",
+    "Nome": "Irene",
+    "Punteggio": "52.25.00",
+    "Codice Kangourou Scuola": "K000041",
+    "Scuola": "LEONARDO",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Barchi",
+    "Nome": "Nicola",
+    "Punteggio": 59.5,
+    "Codice Kangourou Scuola": "K005040",
+    "Scuola": "Liceo 'Torricelli - Ballardini'",
+    "Comune": "FAENZA"
+  },
+  {
+    "Cognome": "Barnabei",
+    "Nome": "Valentina",
+    "Punteggio": "49.15.00",
+    "Codice Kangourou Scuola": "K006293",
+    "Scuola": "Liceo 'Tullio Levi Civita'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "Barone",
+    "Nome": "Samuel",
+    "Punteggio": 49,
+    "Codice Kangourou Scuola": "K001538",
+    "Scuola": "Liceo di Mendrisio",
+    "Comune": "MENDRISIO - SVIZZERA"
+  },
+  {
+    "Cognome": "Bellotti",
+    "Nome": "Pietro",
+    "Punteggio": "53.15.00",
+    "Codice Kangourou Scuola": "K006156",
+    "Scuola": "Liceo Scientifico Statale 'Einstein '",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Benedetti",
+    "Nome": "Tommaso Christoph",
+    "Punteggio": 51,
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "Benedetti",
+    "Nome": "Leonardo",
+    "Punteggio": 47,
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "Benetton",
+    "Nome": "Andrea",
+    "Punteggio": "68.25.00",
+    "Codice Kangourou Scuola": "K006118",
+    "Scuola": "Liceo Statale 'Ippolito Nievo'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Bernardi",
+    "Nome": "Alberto",
+    "Punteggio": "53.25.00",
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Berselli",
+    "Nome": "Sofia",
+    "Punteggio": 46.5,
+    "Codice Kangourou Scuola": "K005500",
+    "Scuola": "Liceo Classico e Linguistico 'L.A. Muratori - San Carlo'",
+    "Comune": "MODENA"
+  },
+  {
+    "Cognome": "Bertacchi",
+    "Nome": "Francesco",
+    "Punteggio": 49.5,
+    "Codice Kangourou Scuola": "K001619",
+    "Scuola": "I.I.S. 'Cattaneo - Dall'Aglio'",
+    "Comune": "CASTELNOVO NE' MONTI"
+  },
+  {
+    "Cognome": "Betti",
+    "Nome": "Giacomo Riccardo",
+    "Punteggio": 49,
+    "Codice Kangourou Scuola": "K000836",
+    "Scuola": "Liceo Scientifico 'Copernico'",
+    "Comune": "BOLOGNA"
+  },
+  {
+    "Cognome": "Bianco",
+    "Nome": "Alessandro",
+    "Punteggio": "49.15.00",
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Bigi",
+    "Nome": "Alessandro",
+    "Punteggio": 63.5,
+    "Codice Kangourou Scuola": "K004692",
+    "Scuola": "Liceo 'Leopardi - Majorana'",
+    "Comune": "PORDENONE"
+  },
+  {
+    "Cognome": "Bignotti",
+    "Nome": "Ludovico",
+    "Punteggio": 47,
+    "Codice Kangourou Scuola": "K004434",
+    "Scuola": "I.I.S. 'don L. Milani'",
+    "Comune": "MONTICHIARI"
+  },
+  {
+    "Cognome": "Boaretto",
+    "Nome": "Mattia",
+    "Punteggio": 68,
+    "Codice Kangourou Scuola": "K006118",
+    "Scuola": "Liceo Statale 'Ippolito Nievo'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Bollito",
+    "Nome": "Filippo",
+    "Punteggio": "60.25.00",
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Bolognesi",
+    "Nome": "Giulio",
+    "Punteggio": 75,
+    "Codice Kangourou Scuola": "K000829",
+    "Scuola": "Liceo Scientifico Statale 'Leonardo da Vinci'",
+    "Comune": "FIRENZE"
+  },
+  {
+    "Cognome": "Boracchi",
+    "Nome": "Maria",
+    "Punteggio": "66.25.00",
+    "Codice Kangourou Scuola": "K006689",
+    "Scuola": "COLLEGIO ALESSANDRO VOLTA",
+    "Comune": "LECCO"
+  },
+  {
+    "Cognome": "Borghino",
+    "Nome": "Matteo",
+    "Punteggio": 67.5,
+    "Codice Kangourou Scuola": "K004778",
+    "Scuola": "I.I.S. 'Arimondi - Eula'",
+    "Comune": "SAVIGLIANO"
+  },
+  {
+    "Cognome": "Boschetti",
+    "Nome": "Stefano",
+    "Punteggio": "81.15.00",
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Boschi",
+    "Nome": "Francesco",
+    "Punteggio": "64.25.00",
+    "Codice Kangourou Scuola": "K000829",
+    "Scuola": "Liceo Scientifico Statale 'Leonardo da Vinci'",
+    "Comune": "FIRENZE"
+  },
+  {
+    "Cognome": "Bottini",
+    "Nome": "Alessandro Matteo",
+    "Punteggio": 55,
+    "Codice Kangourou Scuola": "K006484",
+    "Scuola": "Liceo Scientifico Statale 'Arturo Tosi'",
+    "Comune": "BUSTO ARSIZIO"
+  },
+  {
+    "Cognome": "Bovo",
+    "Nome": "Alessio",
+    "Punteggio": 52,
+    "Codice Kangourou Scuola": "K000872",
+    "Scuola": "Liceo Scientifico 'E. Fermi'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Braga",
+    "Nome": "Annalisa",
+    "Punteggio": "49.25.00",
+    "Codice Kangourou Scuola": "K000210",
+    "Scuola": "LICEO SCIENTIFICO STATALE",
+    "Comune": "PIACENZA"
+  },
+  {
+    "Cognome": "Brambati",
+    "Nome": "Alice",
+    "Punteggio": 64,
+    "Codice Kangourou Scuola": "K005713",
+    "Scuola": "Liceo Statale 'Antonio Banfi'",
+    "Comune": "VIMERCATE"
+  },
+  {
+    "Cognome": "Broghetti",
+    "Nome": "Francesco",
+    "Punteggio": 47,
+    "Codice Kangourou Scuola": "K006836",
+    "Scuola": "Olivelli-Putelli",
+    "Comune": "Darfo Boario Terme"
+  },
+  {
+    "Cognome": "Bulgari",
+    "Nome": "Pietro",
+    "Punteggio": "47.15.00",
+    "Codice Kangourou Scuola": "K000042",
+    "Scuola": "Liceo Scientifico 'Nicolò Copernico'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "CARENA",
+    "Nome": "ELENA",
+    "Punteggio": "71.25.00",
+    "Codice Kangourou Scuola": "K004778",
+    "Scuola": "I.I.S. 'Arimondi - Eula'",
+    "Comune": "SAVIGLIANO"
+  },
+  {
+    "Cognome": "Caione",
+    "Nome": "Marco",
+    "Punteggio": 54.5,
+    "Codice Kangourou Scuola": "K004871",
+    "Scuola": "Liceo Scientifico Statale 'A. Volta'",
+    "Comune": "FOGGIA"
+  },
+  {
+    "Cognome": "Calissano",
+    "Nome": "Corrado",
+    "Punteggio": "92.15.00",
+    "Codice Kangourou Scuola": "K006774",
+    "Scuola": "PARINI",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Calzolari",
+    "Nome": "Mattia",
+    "Punteggio": 48.5,
+    "Codice Kangourou Scuola": "K006757",
+    "Scuola": "I.I.S. ALDINI VALERIANI",
+    "Comune": "BOLOGNA"
+  },
+  {
+    "Cognome": "Calzolari",
+    "Nome": "Laura",
+    "Punteggio": 47.5,
+    "Codice Kangourou Scuola": "K006202",
+    "Scuola": "I.I.S. 'Blaise Pascal'",
+    "Comune": "MANERBIO"
+  },
+  {
+    "Cognome": "Cambria",
+    "Nome": "Paolo",
+    "Punteggio": "66.15.00",
+    "Codice Kangourou Scuola": "K003872",
+    "Scuola": "Liceo Scientifico Statale 'Francesco Redi'",
+    "Comune": "AREZZO"
+  },
+  {
+    "Cognome": "Capello",
+    "Nome": "Nicola",
+    "Punteggio": "54.25.00",
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Capogrosso",
+    "Nome": "Giulia",
+    "Punteggio": 69,
+    "Codice Kangourou Scuola": "K005746",
+    "Scuola": "I.C. 'Cavalchini - Moro'",
+    "Comune": "VILLAFRANCA DI VERONA"
+  },
+  {
+    "Cognome": "Caprara",
+    "Nome": "Lorenzo",
+    "Punteggio": 67.5,
+    "Codice Kangourou Scuola": "K000836",
+    "Scuola": "Liceo Scientifico 'Copernico'",
+    "Comune": "BOLOGNA"
+  },
+  {
+    "Cognome": "Cardone",
+    "Nome": "Marco",
+    "Punteggio": 45.5,
+    "Codice Kangourou Scuola": "K005479",
+    "Scuola": "Liceo Scientifico 'Galileo Galilei'",
+    "Comune": "CATANIA"
+  },
+  {
+    "Cognome": "Carlier",
+    "Nome": "Roberta",
+    "Punteggio": "46.25.00",
+    "Codice Kangourou Scuola": "K006156",
+    "Scuola": "Liceo Scientifico Statale 'Einstein '",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Carpano",
+    "Nome": "Ilaria",
+    "Punteggio": 49,
+    "Codice Kangourou Scuola": "K006862",
+    "Scuola": "Liceo Scientifico San Raffaele",
+    "Comune": "Milano"
+  },
+  {
+    "Cognome": "Caruso",
+    "Nome": "Davide Filippo",
+    "Punteggio": "73.25.00",
+    "Codice Kangourou Scuola": "K005479",
+    "Scuola": "Liceo Scientifico 'Galileo Galilei'",
+    "Comune": "CATANIA"
+  },
+  {
+    "Cognome": "Cassese",
+    "Nome": "Gennaro",
+    "Punteggio": "57.15.00",
+    "Codice Kangourou Scuola": "K004742",
+    "Scuola": "ISIS 'A. Rosmini'",
+    "Comune": "PALMA CAMPANIA"
+  },
+  {
+    "Cognome": "Castro",
+    "Nome": "Enrico",
+    "Punteggio": "52.25.00",
+    "Codice Kangourou Scuola": "K006586",
+    "Scuola": "Liceo classico Statale 'Giovanni Verga'",
+    "Comune": "ADRANO"
+  },
+  {
+    "Cognome": "Castro Garcia",
+    "Nome": "Ramon",
+    "Punteggio": 56,
+    "Codice Kangourou Scuola": "K006216",
+    "Scuola": "I.S.I.S. 'A. Malignani'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Cater",
+    "Nome": "Alexandru",
+    "Punteggio": 60.5,
+    "Codice Kangourou Scuola": "K000210",
+    "Scuola": "LICEO SCIENTIFICO STATALE",
+    "Comune": "PIACENZA"
+  },
+  {
+    "Cognome": "Cavaciuti",
+    "Nome": "Francesco",
+    "Punteggio": 87,
+    "Codice Kangourou Scuola": "K001943",
+    "Scuola": "Liceo Statale 'Primo Levi'",
+    "Comune": "SAN DONATO MILANESE"
+  },
+  {
+    "Cognome": "Cavalieri",
+    "Nome": "Andrea",
+    "Punteggio": 59,
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "Cavallo Perin",
+    "Nome": "Luca",
+    "Punteggio": 94.5,
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Cecchin",
+    "Nome": "Francesco",
+    "Punteggio": "64.25.00",
+    "Codice Kangourou Scuola": "K004692",
+    "Scuola": "Liceo 'Leopardi - Majorana'",
+    "Comune": "PORDENONE"
+  },
+  {
+    "Cognome": "Cencioni",
+    "Nome": "Matteo",
+    "Punteggio": "51.25.00",
+    "Codice Kangourou Scuola": "K006095",
+    "Scuola": "Scuola media 'Pregassona'",
+    "Comune": "PREGASSONA - SVIZZERA"
+  },
+  {
+    "Cognome": "Ceretti",
+    "Nome": "Mattia",
+    "Punteggio": 48,
+    "Codice Kangourou Scuola": "K000041",
+    "Scuola": "LEONARDO",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Cesana",
+    "Nome": "Matteo",
+    "Punteggio": "77.15.00",
+    "Codice Kangourou Scuola": "K006484",
+    "Scuola": "Liceo Scientifico Statale 'Arturo Tosi'",
+    "Comune": "BUSTO ARSIZIO"
+  },
+  {
+    "Cognome": "Cesana",
+    "Nome": "Carlo",
+    "Punteggio": 50,
+    "Codice Kangourou Scuola": "K002105",
+    "Scuola": "Liceo Scientifico 'Vittorini'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Chen",
+    "Nome": "Giulio",
+    "Punteggio": 79.5,
+    "Codice Kangourou Scuola": "K006216",
+    "Scuola": "I.S.I.S. 'A. Malignani'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Chiandetti",
+    "Nome": "Nicola",
+    "Punteggio": "47.25.00",
+    "Codice Kangourou Scuola": "K000028",
+    "Scuola": "Liceo Scientifico 'Lussana'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Chita",
+    "Nome": "Constantin",
+    "Punteggio": 65.5,
+    "Codice Kangourou Scuola": "K000836",
+    "Scuola": "Liceo Scientifico 'Copernico'",
+    "Comune": "BOLOGNA"
+  },
+  {
+    "Cognome": "Ciccarello",
+    "Nome": "Francesco",
+    "Punteggio": "50.25.00",
+    "Codice Kangourou Scuola": "K005713",
+    "Scuola": "Liceo Statale 'Antonio Banfi'",
+    "Comune": "VIMERCATE"
+  },
+  {
+    "Cognome": "Ciorica",
+    "Nome": "Matilde",
+    "Punteggio": "57.15.00",
+    "Codice Kangourou Scuola": "K006445",
+    "Scuola": "Scuola media Locarno 2 (Morettina) - SVIZZERA",
+    "Comune": "LOCARNO - SVIZZERA"
+  },
+  {
+    "Cognome": "Cirelli",
+    "Nome": "Margherita",
+    "Punteggio": "71.15.00",
+    "Codice Kangourou Scuola": "K001184",
+    "Scuola": "Liceo Scientifico Statale 'Calini'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Ciuffardelli",
+    "Nome": "Davide",
+    "Punteggio": 60.5,
+    "Codice Kangourou Scuola": "K004965",
+    "Scuola": "Liceo Scientifico Statale 'A. Tassoni'",
+    "Comune": "MODENA"
+  },
+  {
+    "Cognome": "Civita",
+    "Nome": "Martina",
+    "Punteggio": "58.25.00",
+    "Codice Kangourou Scuola": "K000042",
+    "Scuola": "Liceo Scientifico 'Nicolò Copernico'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Codeluppi",
+    "Nome": "Dario",
+    "Punteggio": "46.25.00",
+    "Codice Kangourou Scuola": "K001333",
+    "Scuola": "Liceo Statale 'Rinaldo Corso'",
+    "Comune": "CORREGGIO"
+  },
+  {
+    "Cognome": "Comini",
+    "Nome": "Giulia",
+    "Punteggio": 68,
+    "Codice Kangourou Scuola": "K001184",
+    "Scuola": "Liceo Scientifico Statale 'Calini'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Consoli",
+    "Nome": "Claudio",
+    "Punteggio": "46.15.00",
+    "Codice Kangourou Scuola": "K006673",
+    "Scuola": "Ecole européenne Luxembourg II",
+    "Comune": "BERTRANGE"
+  },
+  {
+    "Cognome": "Copetti",
+    "Nome": "Federico",
+    "Punteggio": "63.25.00",
+    "Codice Kangourou Scuola": "K006216",
+    "Scuola": "I.S.I.S. 'A. Malignani'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Coppi",
+    "Nome": "Matteo",
+    "Punteggio": 77,
+    "Codice Kangourou Scuola": "K001184",
+    "Scuola": "Liceo Scientifico Statale 'Calini'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Coppola",
+    "Nome": "Pietro",
+    "Punteggio": 94.5,
+    "Codice Kangourou Scuola": "K006156",
+    "Scuola": "Liceo Scientifico Statale 'Einstein '",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Corona",
+    "Nome": "Emanuele",
+    "Punteggio": "79.25.00",
+    "Codice Kangourou Scuola": "K000286",
+    "Scuola": "Liceo Scientifico 'C. Cattaneo'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Corso",
+    "Nome": "Giovanni",
+    "Punteggio": "76.15.00",
+    "Codice Kangourou Scuola": "K006216",
+    "Scuola": "I.S.I.S. 'A. Malignani'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Cortinovis",
+    "Nome": "Paolo",
+    "Punteggio": "78.25.00",
+    "Codice Kangourou Scuola": "K000028",
+    "Scuola": "Liceo Scientifico 'Lussana'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Costantini",
+    "Nome": "Federico",
+    "Punteggio": "71.15.00",
+    "Codice Kangourou Scuola": "K006684",
+    "Scuola": "ISTITUTO PONTIFICIO SANT'APOLLINARE",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "Cotichella",
+    "Nome": "Simone",
+    "Punteggio": 64.5,
+    "Codice Kangourou Scuola": "K006893",
+    "Scuola": "Istituto di Istruzione Superiore J.C. Maxwell",
+    "Comune": "Nichelino​"
+  },
+  {
+    "Cognome": "Cova",
+    "Nome": "Alice",
+    "Punteggio": "47.15.00",
+    "Codice Kangourou Scuola": "K000836",
+    "Scuola": "Liceo Scientifico 'Copernico'",
+    "Comune": "BOLOGNA"
+  },
+  {
+    "Cognome": "Cretti",
+    "Nome": "Zoe",
+    "Punteggio": 49.5,
+    "Codice Kangourou Scuola": "K001498",
+    "Scuola": "Liceo 'Camillo Golgi'",
+    "Comune": "BRENO"
+  },
+  {
+    "Cognome": "Criscione",
+    "Nome": "Giorgio",
+    "Punteggio": 53,
+    "Codice Kangourou Scuola": "K005761",
+    "Scuola": "I.I.S. 'Copernico - Luxemburg'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Croce",
+    "Nome": "Camilla",
+    "Punteggio": 59.5,
+    "Codice Kangourou Scuola": "K006333",
+    "Scuola": "I.I.S. 'Saraceno - Romegialli'",
+    "Comune": "MORBEGNO"
+  },
+  {
+    "Cognome": "Cusimano",
+    "Nome": "Andrea",
+    "Punteggio": "60.25.00",
+    "Codice Kangourou Scuola": "K006293",
+    "Scuola": "Liceo 'Tullio Levi Civita'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "D'Amelio Qosja",
+    "Nome": "Brandon",
+    "Punteggio": "63.25.00",
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "D'Ascoli",
+    "Nome": "Pasquale",
+    "Punteggio": "52.15.00",
+    "Codice Kangourou Scuola": "K004742",
+    "Scuola": "ISIS 'A. Rosmini'",
+    "Comune": "PALMA CAMPANIA"
+  },
+  {
+    "Cognome": "DELL'ORTO",
+    "Nome": "REBECCA",
+    "Punteggio": "101.15.00",
+    "Codice Kangourou Scuola": "K002059",
+    "Scuola": "I.C. 3° 'De Amicis'",
+    "Comune": "LISSONE"
+  },
+  {
+    "Cognome": "Dalai",
+    "Nome": "Silvia",
+    "Punteggio": 56,
+    "Codice Kangourou Scuola": "K006202",
+    "Scuola": "I.I.S. 'Blaise Pascal'",
+    "Comune": "MANERBIO"
+  },
+  {
+    "Cognome": "Damiano",
+    "Nome": "Luigi",
+    "Punteggio": "46.15.00",
+    "Codice Kangourou Scuola": "K001506",
+    "Scuola": "Galilei - Moro",
+    "Comune": "MANFREDONIA"
+  },
+  {
+    "Cognome": "De Finis",
+    "Nome": "Giuseppe",
+    "Punteggio": "96.15.00",
+    "Codice Kangourou Scuola": "K001040",
+    "Scuola": "Liceo Scientifico Statale 'Fanti'",
+    "Comune": "CARPI"
+  },
+  {
+    "Cognome": "De Leeuw",
+    "Nome": "Valentino",
+    "Punteggio": 60,
+    "Codice Kangourou Scuola": "K006202",
+    "Scuola": "I.I.S. 'Blaise Pascal'",
+    "Comune": "MANERBIO"
+  },
+  {
+    "Cognome": "De Marco",
+    "Nome": "Federico",
+    "Punteggio": 51.5,
+    "Codice Kangourou Scuola": "K002070",
+    "Scuola": "Istituto Superiore Statale",
+    "Comune": "CONEGLIANO"
+  },
+  {
+    "Cognome": "De Sa’Pinto",
+    "Nome": "Francesco Jude",
+    "Punteggio": "55.25.00",
+    "Codice Kangourou Scuola": "K006118",
+    "Scuola": "Liceo Statale 'Ippolito Nievo'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Del Negro",
+    "Nome": "Stefano",
+    "Punteggio": 62.5,
+    "Codice Kangourou Scuola": "K006139",
+    "Scuola": "ISIS 'Paschini Linussio'",
+    "Comune": "TOLMEZZO"
+  },
+  {
+    "Cognome": "Demidovich",
+    "Nome": "Alexander",
+    "Punteggio": "61.15.00",
+    "Codice Kangourou Scuola": "K004931",
+    "Scuola": "Liceo Scientifico 'Giordano Bruno'",
+    "Comune": "ALBENGA"
+  },
+  {
+    "Cognome": "Di Franco",
+    "Nome": "Francesco",
+    "Punteggio": 55,
+    "Codice Kangourou Scuola": "K006135",
+    "Scuola": "ITIS 'sen. O. Jannuzzi'",
+    "Comune": "ANDRIA"
+  },
+  {
+    "Cognome": "Di Leonforte",
+    "Nome": "Lorenzo",
+    "Punteggio": 48,
+    "Codice Kangourou Scuola": "K005479",
+    "Scuola": "Liceo Scientifico 'Galileo Galilei'",
+    "Comune": "CATANIA"
+  },
+  {
+    "Cognome": "Dogali",
+    "Nome": "Francesco",
+    "Punteggio": "48.15.00",
+    "Codice Kangourou Scuola": "K004931",
+    "Scuola": "Liceo Scientifico 'Giordano Bruno'",
+    "Comune": "ALBENGA"
+  },
+  {
+    "Cognome": "Dorsaneo",
+    "Nome": "Rebecca",
+    "Punteggio": "45.25.00",
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "Dosio",
+    "Nome": "Alessandro",
+    "Punteggio": 70.5,
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Dovier",
+    "Nome": "Alessandro",
+    "Punteggio": 59,
+    "Codice Kangourou Scuola": "K000827",
+    "Scuola": "Liceo Scientifico Statale 'Giovanni Marinelli'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Drago",
+    "Nome": "Leonardo",
+    "Punteggio": "59.15.00",
+    "Codice Kangourou Scuola": "K000028",
+    "Scuola": "Liceo Scientifico 'Lussana'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Durando",
+    "Nome": "Lisa",
+    "Punteggio": 60,
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Durante",
+    "Nome": "Giada",
+    "Punteggio": 50,
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Elia",
+    "Nome": "Francesco",
+    "Punteggio": "46.25.00",
+    "Codice Kangourou Scuola": "K000836",
+    "Scuola": "Liceo Scientifico 'Copernico'",
+    "Comune": "BOLOGNA"
+  },
+  {
+    "Cognome": "Fabbris",
+    "Nome": "Federico",
+    "Punteggio": "78.25.00",
+    "Codice Kangourou Scuola": "K006484",
+    "Scuola": "Liceo Scientifico Statale 'Arturo Tosi'",
+    "Comune": "BUSTO ARSIZIO"
+  },
+  {
+    "Cognome": "Fabbris",
+    "Nome": "Francesco",
+    "Punteggio": "59.25.00",
+    "Codice Kangourou Scuola": "K000872",
+    "Scuola": "Liceo Scientifico 'E. Fermi'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Fanelli",
+    "Nome": "Chiara",
+    "Punteggio": "59.25.00",
+    "Codice Kangourou Scuola": "K005408",
+    "Scuola": "Liceo 'Plinio Seniore'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "Fantoni",
+    "Nome": "Alessia",
+    "Punteggio": "58.25.00",
+    "Codice Kangourou Scuola": "K000829",
+    "Scuola": "Liceo Scientifico Statale 'Leonardo da Vinci'",
+    "Comune": "FIRENZE"
+  },
+  {
+    "Cognome": "Fantuzzi",
+    "Nome": "Matteo",
+    "Punteggio": 58.5,
+    "Codice Kangourou Scuola": "K003860",
+    "Scuola": "Liceo Classico Scientifico 'Ariosto Spallanzani'",
+    "Comune": "REGGIO EMILIA"
+  },
+  {
+    "Cognome": "Fava",
+    "Nome": "Francesco",
+    "Punteggio": 48.5,
+    "Codice Kangourou Scuola": "K000027",
+    "Scuola": "Liceo Scientifico Statale 'Lorenzo Mascheroni'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Ferrari",
+    "Nome": "Kimi",
+    "Punteggio": "60.25.00",
+    "Codice Kangourou Scuola": "K000260",
+    "Scuola": "Liceo 'Lugano 2'",
+    "Comune": "SAVOSA - SVIZZERA"
+  },
+  {
+    "Cognome": "Ferrari",
+    "Nome": "Fabio",
+    "Punteggio": "46.15.00",
+    "Codice Kangourou Scuola": "K003872",
+    "Scuola": "Liceo Scientifico Statale 'Francesco Redi'",
+    "Comune": "AREZZO"
+  },
+  {
+    "Cognome": "Fierro",
+    "Nome": "Giuseppe",
+    "Punteggio": 64.5,
+    "Codice Kangourou Scuola": "K005408",
+    "Scuola": "Liceo 'Plinio Seniore'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "Filippa",
+    "Nome": "Edoardo",
+    "Punteggio": 54.5,
+    "Codice Kangourou Scuola": "K005761",
+    "Scuola": "I.I.S. 'Copernico - Luxemburg'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Fiorini",
+    "Nome": "Leonardo",
+    "Punteggio": 57,
+    "Codice Kangourou Scuola": "K006836",
+    "Scuola": "Olivelli-Putelli",
+    "Comune": "Darfo Boario Terme"
+  },
+  {
+    "Cognome": "Formigaro",
+    "Nome": "Daniel",
+    "Punteggio": 82.5,
+    "Codice Kangourou Scuola": "K000872",
+    "Scuola": "Liceo Scientifico 'E. Fermi'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Franceschetti",
+    "Nome": "Viola",
+    "Punteggio": "57.25.00",
+    "Codice Kangourou Scuola": "K000042",
+    "Scuola": "Liceo Scientifico 'Nicolò Copernico'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Francisetti",
+    "Nome": "Davide",
+    "Punteggio": "79.25.00",
+    "Codice Kangourou Scuola": "K006365",
+    "Scuola": "I.C. Statale 'Parri - Vian'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Franzoso",
+    "Nome": "Jacopo",
+    "Punteggio": "60.25.00",
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Frassine",
+    "Nome": "Samuele",
+    "Punteggio": "46.25.00",
+    "Codice Kangourou Scuola": "K006553",
+    "Scuola": "I.I.S. 'Giacomo Antonietti'",
+    "Comune": "ISEO"
+  },
+  {
+    "Cognome": "Fruggeri",
+    "Nome": "Frida",
+    "Punteggio": 46,
+    "Codice Kangourou Scuola": "K005500",
+    "Scuola": "Liceo Classico e Linguistico 'L.A. Muratori - San Carlo'",
+    "Comune": "MODENA"
+  },
+  {
+    "Cognome": "Fusco",
+    "Nome": "Alessia",
+    "Punteggio": 66,
+    "Codice Kangourou Scuola": "K000216",
+    "Scuola": "Liceo Scientifico 'U. Dini'",
+    "Comune": "PISA"
+  },
+  {
+    "Cognome": "Galavotti",
+    "Nome": "Simone",
+    "Punteggio": "49.25.00",
+    "Codice Kangourou Scuola": "K004965",
+    "Scuola": "Liceo Scientifico Statale 'A. Tassoni'",
+    "Comune": "MODENA"
+  },
+  {
+    "Cognome": "Garavana",
+    "Nome": "Andrea",
+    "Punteggio": 45,
+    "Codice Kangourou Scuola": "K001297",
+    "Scuola": "Istituto Internazionale 'Edoardo Agnelli'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Gariboldi",
+    "Nome": "Lisa",
+    "Punteggio": 47.5,
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Gariglio",
+    "Nome": "Francesco",
+    "Punteggio": "98.25.00",
+    "Codice Kangourou Scuola": "K005689",
+    "Scuola": "I.C. di Poirino",
+    "Comune": "POIRINO"
+  },
+  {
+    "Cognome": "Gastaldi",
+    "Nome": "Fabio",
+    "Punteggio": "46.25.00",
+    "Codice Kangourou Scuola": "K000868",
+    "Scuola": "I.T.A.S. 'A. Trentin'",
+    "Comune": "LONIGO"
+  },
+  {
+    "Cognome": "Gavazzi",
+    "Nome": "Marco",
+    "Punteggio": 62,
+    "Codice Kangourou Scuola": "K001184",
+    "Scuola": "Liceo Scientifico Statale 'Calini'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Gavrilita",
+    "Nome": "Kirill",
+    "Punteggio": 68,
+    "Codice Kangourou Scuola": "K000042",
+    "Scuola": "Liceo Scientifico 'Nicolò Copernico'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Genalti",
+    "Nome": "Pierpaolo",
+    "Punteggio": 54.5,
+    "Codice Kangourou Scuola": "K003872",
+    "Scuola": "Liceo Scientifico Statale 'Francesco Redi'",
+    "Comune": "AREZZO"
+  },
+  {
+    "Cognome": "Geronimi",
+    "Nome": "Diamantea",
+    "Punteggio": "48.25.00",
+    "Codice Kangourou Scuola": "K001498",
+    "Scuola": "Liceo 'Camillo Golgi'",
+    "Comune": "BRENO"
+  },
+  {
+    "Cognome": "Ghebriel",
+    "Nome": "Thomas",
+    "Punteggio": 68,
+    "Codice Kangourou Scuola": "K000042",
+    "Scuola": "Liceo Scientifico 'Nicolò Copernico'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Gherbi",
+    "Nome": "Matteo",
+    "Punteggio": "62.15.00",
+    "Codice Kangourou Scuola": "K006333",
+    "Scuola": "I.I.S. 'Saraceno - Romegialli'",
+    "Comune": "MORBEGNO"
+  },
+  {
+    "Cognome": "Ghidelli",
+    "Nome": "Valentin",
+    "Punteggio": "48.25.00",
+    "Codice Kangourou Scuola": "K006156",
+    "Scuola": "Liceo Scientifico Statale 'Einstein '",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Gioppo",
+    "Nome": "Valentina",
+    "Punteggio": 58,
+    "Codice Kangourou Scuola": "K001297",
+    "Scuola": "Istituto Internazionale 'Edoardo Agnelli'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Giordano",
+    "Nome": "Yuri",
+    "Punteggio": "49.25.00",
+    "Codice Kangourou Scuola": "K006118",
+    "Scuola": "Liceo Statale 'Ippolito Nievo'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Gioso",
+    "Nome": "Pietro",
+    "Punteggio": 53,
+    "Codice Kangourou Scuola": "K006118",
+    "Scuola": "Liceo Statale 'Ippolito Nievo'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Girlando",
+    "Nome": "Luca",
+    "Punteggio": "62.15.00",
+    "Codice Kangourou Scuola": "K004965",
+    "Scuola": "Liceo Scientifico Statale 'A. Tassoni'",
+    "Comune": "MODENA"
+  },
+  {
+    "Cognome": "Goffelli",
+    "Nome": "Alessandro",
+    "Punteggio": 65,
+    "Codice Kangourou Scuola": "K000042",
+    "Scuola": "Liceo Scientifico 'Nicolò Copernico'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Gola",
+    "Nome": "Giorgio",
+    "Punteggio": 68,
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Grigore",
+    "Nome": "Andrei",
+    "Punteggio": "68.25.00",
+    "Codice Kangourou Scuola": "K000260",
+    "Scuola": "Liceo 'Lugano 2'",
+    "Comune": "SAVOSA - SVIZZERA"
+  },
+  {
+    "Cognome": "Grioni",
+    "Nome": "Caterina",
+    "Punteggio": "56.15.00",
+    "Codice Kangourou Scuola": "K005382",
+    "Scuola": "Istituto 'Zaccaria' - Licei",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Guidacci",
+    "Nome": "Michele",
+    "Punteggio": 62,
+    "Codice Kangourou Scuola": "K004871",
+    "Scuola": "Liceo Scientifico Statale 'A. Volta'",
+    "Comune": "FOGGIA"
+  },
+  {
+    "Cognome": "Guo",
+    "Nome": "Yang",
+    "Punteggio": 46,
+    "Codice Kangourou Scuola": "K006340",
+    "Scuola": "I.I.S. 'Blaise Pascal'",
+    "Comune": "REGGIO EMILIA"
+  },
+  {
+    "Cognome": "HU",
+    "Nome": "LEO",
+    "Punteggio": "71.25.00",
+    "Codice Kangourou Scuola": "K006156",
+    "Scuola": "Liceo Scientifico Statale 'Einstein '",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Helmi",
+    "Nome": "Davide",
+    "Punteggio": "65.25.00",
+    "Codice Kangourou Scuola": "K005408",
+    "Scuola": "Liceo 'Plinio Seniore'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "IANNICIELLO",
+    "Nome": "LETIZIA",
+    "Punteggio": "47.15.00",
+    "Codice Kangourou Scuola": "K006271",
+    "Scuola": "Liceo Scientifico 'P.S. Mancini'",
+    "Comune": "AVELLINO"
+  },
+  {
+    "Cognome": "Iaccarino",
+    "Nome": "Chiara",
+    "Punteggio": 61.5,
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Iacobacci",
+    "Nome": "Francesco",
+    "Punteggio": 53,
+    "Codice Kangourou Scuola": "K000048",
+    "Scuola": "Liceo Scientifico Statale 'A. Romita'",
+    "Comune": "CAMPOBASSO"
+  },
+  {
+    "Cognome": "Iannaccone",
+    "Nome": "Matilde",
+    "Punteggio": 89.5,
+    "Codice Kangourou Scuola": "K000216",
+    "Scuola": "Liceo Scientifico 'U. Dini'",
+    "Comune": "PISA"
+  },
+  {
+    "Cognome": "Introvigne",
+    "Nome": "Martina",
+    "Punteggio": "55.15.00",
+    "Codice Kangourou Scuola": "K002070",
+    "Scuola": "Istituto Superiore Statale",
+    "Comune": "CONEGLIANO"
+  },
+  {
+    "Cognome": "Iori",
+    "Nome": "Stefano",
+    "Punteggio": 54,
+    "Codice Kangourou Scuola": "K006156",
+    "Scuola": "Liceo Scientifico Statale 'Einstein '",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Jurina",
+    "Nome": "Alessio",
+    "Punteggio": "54.25.00",
+    "Codice Kangourou Scuola": "K006862",
+    "Scuola": "Liceo Scientifico San Raffaele",
+    "Comune": "Milano"
+  },
+  {
+    "Cognome": "Kertesz",
+    "Nome": "Raul",
+    "Punteggio": 71,
+    "Codice Kangourou Scuola": "K000048",
+    "Scuola": "Liceo Scientifico Statale 'A. Romita'",
+    "Comune": "CAMPOBASSO"
+  },
+  {
+    "Cognome": "La Manna",
+    "Nome": "Massimo",
+    "Punteggio": "51.15.00",
+    "Codice Kangourou Scuola": "K006586",
+    "Scuola": "Liceo classico Statale 'Giovanni Verga'",
+    "Comune": "ADRANO"
+  },
+  {
+    "Cognome": "Li",
+    "Nome": "Feixiang",
+    "Punteggio": 66,
+    "Codice Kangourou Scuola": "K000117",
+    "Scuola": "Liceo Scientifico Statale 'Cassini'",
+    "Comune": "GENOVA"
+  },
+  {
+    "Cognome": "Lionetti",
+    "Nome": "Davide",
+    "Punteggio": 51.5,
+    "Codice Kangourou Scuola": "K000117",
+    "Scuola": "Liceo Scientifico Statale 'Cassini'",
+    "Comune": "GENOVA"
+  },
+  {
+    "Cognome": "Lodrini",
+    "Nome": "Francesco Maria",
+    "Punteggio": "72.15.00",
+    "Codice Kangourou Scuola": "K000042",
+    "Scuola": "Liceo Scientifico 'Nicolò Copernico'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Lonigro",
+    "Nome": "Cristian",
+    "Punteggio": 102,
+    "Codice Kangourou Scuola": "K000216",
+    "Scuola": "Liceo Scientifico 'U. Dini'",
+    "Comune": "PISA"
+  },
+  {
+    "Cognome": "Lucibello",
+    "Nome": "Giampiero",
+    "Punteggio": "66.25.00",
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Lupi",
+    "Nome": "Maria Beatrice",
+    "Punteggio": "108.25.00",
+    "Codice Kangourou Scuola": "K003860",
+    "Scuola": "Liceo Classico Scientifico 'Ariosto Spallanzani'",
+    "Comune": "REGGIO EMILIA"
+  },
+  {
+    "Cognome": "MEINDL",
+    "Nome": "GIOVANNI",
+    "Punteggio": "103.25.00",
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Maestro",
+    "Nome": "Alberto",
+    "Punteggio": 49,
+    "Codice Kangourou Scuola": "K000216",
+    "Scuola": "Liceo Scientifico 'U. Dini'",
+    "Comune": "PISA"
+  },
+  {
+    "Cognome": "Maifredi",
+    "Nome": "Gabriele",
+    "Punteggio": "63.25.00",
+    "Codice Kangourou Scuola": "K006553",
+    "Scuola": "I.I.S. 'Giacomo Antonietti'",
+    "Comune": "ISEO"
+  },
+  {
+    "Cognome": "Maio",
+    "Nome": "Cristian",
+    "Punteggio": 45,
+    "Codice Kangourou Scuola": "K006229",
+    "Scuola": "Istituto Tecnico Industriale 'G.B. Bosco Lucarelli'",
+    "Comune": "BENEVENTO"
+  },
+  {
+    "Cognome": "Maj",
+    "Nome": "Rocco",
+    "Punteggio": "48.15.00",
+    "Codice Kangourou Scuola": "K006156",
+    "Scuola": "Liceo Scientifico Statale 'Einstein '",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Malcaus",
+    "Nome": "Matteo",
+    "Punteggio": "51.15.00",
+    "Codice Kangourou Scuola": "K001943",
+    "Scuola": "Liceo Statale 'Primo Levi'",
+    "Comune": "SAN DONATO MILANESE"
+  },
+  {
+    "Cognome": "Manfredi",
+    "Nome": "Luca",
+    "Punteggio": "67.15.00",
+    "Codice Kangourou Scuola": "K000041",
+    "Scuola": "LEONARDO",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Mannari",
+    "Nome": "Giulio",
+    "Punteggio": 87,
+    "Codice Kangourou Scuola": "K000216",
+    "Scuola": "Liceo Scientifico 'U. Dini'",
+    "Comune": "PISA"
+  },
+  {
+    "Cognome": "Marazza",
+    "Nome": "Samuele",
+    "Punteggio": 55.5,
+    "Codice Kangourou Scuola": "K006090",
+    "Scuola": "Scuola media 'Giubiasco'",
+    "Comune": "GIUBIASCO - SVIZZERA"
+  },
+  {
+    "Cognome": "Marcenaro",
+    "Nome": "Giovanni",
+    "Punteggio": "60.25.00",
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "Marchio",
+    "Nome": "Ilenia",
+    "Punteggio": 67,
+    "Codice Kangourou Scuola": "K006094",
+    "Scuola": "Scuola media 'Stabio'",
+    "Comune": "STABIO - SVIZZERA"
+  },
+  {
+    "Cognome": "Marconi",
+    "Nome": "David",
+    "Punteggio": "63.15.00",
+    "Codice Kangourou Scuola": "K000829",
+    "Scuola": "Liceo Scientifico Statale 'Leonardo da Vinci'",
+    "Comune": "FIRENZE"
+  },
+  {
+    "Cognome": "Mariani",
+    "Nome": "Davide",
+    "Punteggio": 72,
+    "Codice Kangourou Scuola": "K005713",
+    "Scuola": "Liceo Statale 'Antonio Banfi'",
+    "Comune": "VIMERCATE"
+  },
+  {
+    "Cognome": "Mariani",
+    "Nome": "Riccardo",
+    "Punteggio": 45.5,
+    "Codice Kangourou Scuola": "K004408",
+    "Scuola": "Liceo Scientifico 'P. Bottoni'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Marin",
+    "Nome": "Andrea",
+    "Punteggio": "70.25.00",
+    "Codice Kangourou Scuola": "K002070",
+    "Scuola": "Istituto Superiore Statale",
+    "Comune": "CONEGLIANO"
+  },
+  {
+    "Cognome": "Marini",
+    "Nome": "Matteo",
+    "Punteggio": "83.25.00",
+    "Codice Kangourou Scuola": "K001184",
+    "Scuola": "Liceo Scientifico Statale 'Calini'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Marino",
+    "Nome": "Paolo",
+    "Punteggio": 50.5,
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "Mariotto",
+    "Nome": "Andrea",
+    "Punteggio": 59,
+    "Codice Kangourou Scuola": "K002070",
+    "Scuola": "Istituto Superiore Statale",
+    "Comune": "CONEGLIANO"
+  },
+  {
+    "Cognome": "Masini",
+    "Nome": "Carlo Ermanno",
+    "Punteggio": 51,
+    "Codice Kangourou Scuola": "K006774",
+    "Scuola": "PARINI",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Masoero",
+    "Nome": "Alessandro",
+    "Punteggio": 50,
+    "Codice Kangourou Scuola": "K004778",
+    "Scuola": "I.I.S. 'Arimondi - Eula'",
+    "Comune": "SAVIGLIANO"
+  },
+  {
+    "Cognome": "Mastrangelo",
+    "Nome": "Roberta",
+    "Punteggio": 54,
+    "Codice Kangourou Scuola": "K000048",
+    "Scuola": "Liceo Scientifico Statale 'A. Romita'",
+    "Comune": "CAMPOBASSO"
+  },
+  {
+    "Cognome": "Mattolini",
+    "Nome": "Giovanni",
+    "Punteggio": 45,
+    "Codice Kangourou Scuola": "K000216",
+    "Scuola": "Liceo Scientifico 'U. Dini'",
+    "Comune": "PISA"
+  },
+  {
+    "Cognome": "Mazzini",
+    "Nome": "Mattia Mirco",
+    "Punteggio": "70.25.00",
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Medves",
+    "Nome": "Riccardo",
+    "Punteggio": "60.25.00",
+    "Codice Kangourou Scuola": "K006216",
+    "Scuola": "I.S.I.S. 'A. Malignani'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Mellace",
+    "Nome": "Emma Francesca",
+    "Punteggio": "55.25.00",
+    "Codice Kangourou Scuola": "K002105",
+    "Scuola": "Liceo Scientifico 'Vittorini'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Menconi",
+    "Nome": "Lorenzo",
+    "Punteggio": 55.5,
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "Michetti",
+    "Nome": "Jacopo",
+    "Punteggio": 54.5,
+    "Codice Kangourou Scuola": "K000028",
+    "Scuola": "Liceo Scientifico 'Lussana'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Mioni",
+    "Nome": "Tommaso",
+    "Punteggio": "50.25.00",
+    "Codice Kangourou Scuola": "K001882",
+    "Scuola": "Liceo Classico Statale 'Tito Livio'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Mistrorigo",
+    "Nome": "Diego",
+    "Punteggio": 46.5,
+    "Codice Kangourou Scuola": "K000868",
+    "Scuola": "I.T.A.S. 'A. Trentin'",
+    "Comune": "LONIGO"
+  },
+  {
+    "Cognome": "Morari",
+    "Nome": "Lorenzo",
+    "Punteggio": 47.5,
+    "Codice Kangourou Scuola": "K000868",
+    "Scuola": "I.T.A.S. 'A. Trentin'",
+    "Comune": "LONIGO"
+  },
+  {
+    "Cognome": "Moressa",
+    "Nome": "Giulio",
+    "Punteggio": "53.25.00",
+    "Codice Kangourou Scuola": "K000872",
+    "Scuola": "Liceo Scientifico 'E. Fermi'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Moriconi",
+    "Nome": "Taddeo",
+    "Punteggio": "52.25.00",
+    "Codice Kangourou Scuola": "K000216",
+    "Scuola": "Liceo Scientifico 'U. Dini'",
+    "Comune": "PISA"
+  },
+  {
+    "Cognome": "Moro",
+    "Nome": "Gabriella",
+    "Punteggio": 70.5,
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Mosele",
+    "Nome": "Giacomo",
+    "Punteggio": "69.25.00",
+    "Codice Kangourou Scuola": "K000117",
+    "Scuola": "Liceo Scientifico Statale 'Cassini'",
+    "Comune": "GENOVA"
+  },
+  {
+    "Cognome": "Motta",
+    "Nome": "Carlo",
+    "Punteggio": "58.25.00",
+    "Codice Kangourou Scuola": "K006893",
+    "Scuola": "Istituto di Istruzione Superiore J.C. Maxwell",
+    "Comune": "Nichelino​"
+  },
+  {
+    "Cognome": "Mottese",
+    "Nome": "Marco",
+    "Punteggio": 97,
+    "Codice Kangourou Scuola": "K000286",
+    "Scuola": "Liceo Scientifico 'C. Cattaneo'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Muraro",
+    "Nome": "Viola",
+    "Punteggio": 48,
+    "Codice Kangourou Scuola": "K004408",
+    "Scuola": "Liceo Scientifico 'P. Bottoni'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Napoli",
+    "Nome": "Andrea",
+    "Punteggio": "61.15.00",
+    "Codice Kangourou Scuola": "K000027",
+    "Scuola": "Liceo Scientifico Statale 'Lorenzo Mascheroni'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Negri",
+    "Nome": "Francesco",
+    "Punteggio": "53.25.00",
+    "Codice Kangourou Scuola": "K002105",
+    "Scuola": "Liceo Scientifico 'Vittorini'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Nicoletti",
+    "Nome": "Giacomo",
+    "Punteggio": 55,
+    "Codice Kangourou Scuola": "K000872",
+    "Scuola": "Liceo Scientifico 'E. Fermi'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Nitz",
+    "Nome": "Emma",
+    "Punteggio": 53,
+    "Codice Kangourou Scuola": "K001498",
+    "Scuola": "Liceo 'Camillo Golgi'",
+    "Comune": "BRENO"
+  },
+  {
+    "Cognome": "Nizzolo",
+    "Nome": "Jacopo",
+    "Punteggio": "68.25.00",
+    "Codice Kangourou Scuola": "K004830",
+    "Scuola": "Centro Salesiano 'don Bosco'",
+    "Comune": "TREVIGLIO"
+  },
+  {
+    "Cognome": "Oggioni",
+    "Nome": "Anna",
+    "Punteggio": "63.25.00",
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Olive",
+    "Nome": "Rosa",
+    "Punteggio": 46,
+    "Codice Kangourou Scuola": "K002105",
+    "Scuola": "Liceo Scientifico 'Vittorini'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Olivieri",
+    "Nome": "Matteo",
+    "Punteggio": 53,
+    "Codice Kangourou Scuola": "K001506",
+    "Scuola": "Galilei - Moro",
+    "Comune": "MANFREDONIA"
+  },
+  {
+    "Cognome": "Ongaretti",
+    "Nome": "Stefano",
+    "Punteggio": 53,
+    "Codice Kangourou Scuola": "K000042",
+    "Scuola": "Liceo Scientifico 'Nicolò Copernico'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Ordanini",
+    "Nome": "Matteo",
+    "Punteggio": 54,
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "PACCO",
+    "Nome": "LUCA",
+    "Punteggio": "59.25.00",
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Pagani",
+    "Nome": "Elena",
+    "Punteggio": "48.25.00",
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Pagliato",
+    "Nome": "Gabriele",
+    "Punteggio": 46.5,
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Pantini",
+    "Nome": "Leonardo",
+    "Punteggio": "61.15.00",
+    "Codice Kangourou Scuola": "K000027",
+    "Scuola": "Liceo Scientifico Statale 'Lorenzo Mascheroni'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Pasqui",
+    "Nome": "Laura",
+    "Punteggio": 51.5,
+    "Codice Kangourou Scuola": "K004408",
+    "Scuola": "Liceo Scientifico 'P. Bottoni'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Patocchi",
+    "Nome": "Gabriele",
+    "Punteggio": "53.15.00",
+    "Codice Kangourou Scuola": "K000260",
+    "Scuola": "Liceo 'Lugano 2'",
+    "Comune": "SAVOSA - SVIZZERA"
+  },
+  {
+    "Cognome": "Pavarini",
+    "Nome": "Federica",
+    "Punteggio": "66.25.00",
+    "Codice Kangourou Scuola": "K006559",
+    "Scuola": "Liceo Scientifico 'Guglielmo Marconi'",
+    "Comune": "FOGGIA"
+  },
+  {
+    "Cognome": "Pedersoli",
+    "Nome": "Filippo",
+    "Punteggio": "51.25.00",
+    "Codice Kangourou Scuola": "K001498",
+    "Scuola": "Liceo 'Camillo Golgi'",
+    "Comune": "BRENO"
+  },
+  {
+    "Cognome": "Pedrali Noy",
+    "Nome": "Federico",
+    "Punteggio": 52,
+    "Codice Kangourou Scuola": "K006095",
+    "Scuola": "Scuola media 'Pregassona'",
+    "Comune": "PREGASSONA - SVIZZERA"
+  },
+  {
+    "Cognome": "Pegno",
+    "Nome": "Mattia",
+    "Punteggio": "45.25.00",
+    "Codice Kangourou Scuola": "K000027",
+    "Scuola": "Liceo Scientifico Statale 'Lorenzo Mascheroni'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Pellegriti",
+    "Nome": "Giuseppe",
+    "Punteggio": "45.25.00",
+    "Codice Kangourou Scuola": "K006586",
+    "Scuola": "Liceo classico Statale 'Giovanni Verga'",
+    "Comune": "ADRANO"
+  },
+  {
+    "Cognome": "Pelloni",
+    "Nome": "Elia",
+    "Punteggio": 66.5,
+    "Codice Kangourou Scuola": "K006090",
+    "Scuola": "Scuola media 'Giubiasco'",
+    "Comune": "GIUBIASCO - SVIZZERA"
+  },
+  {
+    "Cognome": "Peluso",
+    "Nome": "Carmine",
+    "Punteggio": "50.25.00",
+    "Codice Kangourou Scuola": "K004742",
+    "Scuola": "ISIS 'A. Rosmini'",
+    "Comune": "PALMA CAMPANIA"
+  },
+  {
+    "Cognome": "Peressini",
+    "Nome": "Eleonora",
+    "Punteggio": 52.5,
+    "Codice Kangourou Scuola": "K000827",
+    "Scuola": "Liceo Scientifico Statale 'Giovanni Marinelli'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Perico",
+    "Nome": "Alessandro",
+    "Punteggio": 89.5,
+    "Codice Kangourou Scuola": "K000027",
+    "Scuola": "Liceo Scientifico Statale 'Lorenzo Mascheroni'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Perler",
+    "Nome": "Linda",
+    "Punteggio": 47,
+    "Codice Kangourou Scuola": "K006912",
+    "Scuola": "SCUOLA MEDIA MORBIO",
+    "Comune": "MORBIO INFERIORE"
+  },
+  {
+    "Cognome": "Piccione",
+    "Nome": "Alessandro",
+    "Punteggio": "60.25.00",
+    "Codice Kangourou Scuola": "K005461",
+    "Scuola": "I.I.S. 'Mazzini'",
+    "Comune": "VITTORIA"
+  },
+  {
+    "Cognome": "Picciurro",
+    "Nome": "Gaia",
+    "Punteggio": "66.25.00",
+    "Codice Kangourou Scuola": "K001297",
+    "Scuola": "Istituto Internazionale 'Edoardo Agnelli'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Picotti",
+    "Nome": "Cristian",
+    "Punteggio": 52,
+    "Codice Kangourou Scuola": "K006553",
+    "Scuola": "I.I.S. 'Giacomo Antonietti'",
+    "Comune": "ISEO"
+  },
+  {
+    "Cognome": "Pierini",
+    "Nome": "Elio",
+    "Punteggio": 50.5,
+    "Codice Kangourou Scuola": "K005408",
+    "Scuola": "Liceo 'Plinio Seniore'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "Pieroni",
+    "Nome": "Vittoria",
+    "Punteggio": 54,
+    "Codice Kangourou Scuola": "K003872",
+    "Scuola": "Liceo Scientifico Statale 'Francesco Redi'",
+    "Comune": "AREZZO"
+  },
+  {
+    "Cognome": "Pinton",
+    "Nome": "Simone",
+    "Punteggio": 56,
+    "Codice Kangourou Scuola": "K000872",
+    "Scuola": "Liceo Scientifico 'E. Fermi'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Plebani",
+    "Nome": "Giovanni",
+    "Punteggio": "54.15.00",
+    "Codice Kangourou Scuola": "K000041",
+    "Scuola": "LEONARDO",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Plodari",
+    "Nome": "Andrea Pavel",
+    "Punteggio": "65.25.00",
+    "Codice Kangourou Scuola": "K001184",
+    "Scuola": "Liceo Scientifico Statale 'Calini'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Poggi",
+    "Nome": "Alessandro",
+    "Punteggio": "54.25.00",
+    "Codice Kangourou Scuola": "K001882",
+    "Scuola": "Liceo Classico Statale 'Tito Livio'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Policriti",
+    "Nome": "Luca",
+    "Punteggio": 45,
+    "Codice Kangourou Scuola": "K005408",
+    "Scuola": "Liceo 'Plinio Seniore'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "Pone",
+    "Nome": "Ruggero",
+    "Punteggio": "63.25.00",
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Portella",
+    "Nome": "Francesco",
+    "Punteggio": 67,
+    "Codice Kangourou Scuola": "K000117",
+    "Scuola": "Liceo Scientifico Statale 'Cassini'",
+    "Comune": "GENOVA"
+  },
+  {
+    "Cognome": "Portolan",
+    "Nome": "Annachiara",
+    "Punteggio": "63.25.00",
+    "Codice Kangourou Scuola": "K004692",
+    "Scuola": "Liceo 'Leopardi - Majorana'",
+    "Comune": "PORDENONE"
+  },
+  {
+    "Cognome": "Potenza",
+    "Nome": "Niccolò",
+    "Punteggio": 49.5,
+    "Codice Kangourou Scuola": "K006293",
+    "Scuola": "Liceo 'Tullio Levi Civita'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "Pozzali",
+    "Nome": "Caterina",
+    "Punteggio": "68.25.00",
+    "Codice Kangourou Scuola": "K001184",
+    "Scuola": "Liceo Scientifico Statale 'Calini'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Pozzi",
+    "Nome": "Andrea",
+    "Punteggio": 46,
+    "Codice Kangourou Scuola": "K000895",
+    "Scuola": "Liceo Scientifico 'E. Fermi'",
+    "Comune": "CANTU'"
+  },
+  {
+    "Cognome": "Pozzobon",
+    "Nome": "Tommaso",
+    "Punteggio": 62,
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Procacci",
+    "Nome": "Elisa",
+    "Punteggio": "70.25.00",
+    "Codice Kangourou Scuola": "K005761",
+    "Scuola": "I.I.S. 'Copernico - Luxemburg'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Quaglia",
+    "Nome": "Sofia",
+    "Punteggio": "72.15.00",
+    "Codice Kangourou Scuola": "K000210",
+    "Scuola": "LICEO SCIENTIFICO STATALE",
+    "Comune": "PIACENZA"
+  },
+  {
+    "Cognome": "RAVERA",
+    "Nome": "BENIAMINO",
+    "Punteggio": 70.5,
+    "Codice Kangourou Scuola": "K006774",
+    "Scuola": "PARINI",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Rabasco",
+    "Nome": "Emanuele",
+    "Punteggio": 58,
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "Racolta",
+    "Nome": "Dorian",
+    "Punteggio": "68.25.00",
+    "Codice Kangourou Scuola": "K000042",
+    "Scuola": "Liceo Scientifico 'Nicolò Copernico'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Rainone",
+    "Nome": "Emy",
+    "Punteggio": "46.25.00",
+    "Codice Kangourou Scuola": "K006095",
+    "Scuola": "Scuola media 'Pregassona'",
+    "Comune": "PREGASSONA - SVIZZERA"
+  },
+  {
+    "Cognome": "Ranchetti",
+    "Nome": "Paolo",
+    "Punteggio": "58.25.00",
+    "Codice Kangourou Scuola": "K001498",
+    "Scuola": "Liceo 'Camillo Golgi'",
+    "Comune": "BRENO"
+  },
+  {
+    "Cognome": "Ravasio",
+    "Nome": "Luca",
+    "Punteggio": "47.15.00",
+    "Codice Kangourou Scuola": "K000028",
+    "Scuola": "Liceo Scientifico 'Lussana'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Reali",
+    "Nome": "Andrea",
+    "Punteggio": "53.25.00",
+    "Codice Kangourou Scuola": "K003872",
+    "Scuola": "Liceo Scientifico Statale 'Francesco Redi'",
+    "Comune": "AREZZO"
+  },
+  {
+    "Cognome": "Richini",
+    "Nome": "Davide",
+    "Punteggio": 52.5,
+    "Codice Kangourou Scuola": "K006836",
+    "Scuola": "Olivelli-Putelli",
+    "Comune": "Darfo Boario Terme"
+  },
+  {
+    "Cognome": "Righetti",
+    "Nome": "Elia",
+    "Punteggio": 68.5,
+    "Codice Kangourou Scuola": "K006848",
+    "Scuola": "A. MESSEDAGLIA",
+    "Comune": "VERONA"
+  },
+  {
+    "Cognome": "Righetti",
+    "Nome": "Matteo",
+    "Punteggio": "54.25.00",
+    "Codice Kangourou Scuola": "K000836",
+    "Scuola": "Liceo Scientifico 'Copernico'",
+    "Comune": "BOLOGNA"
+  },
+  {
+    "Cognome": "Rossi",
+    "Nome": "Andrea",
+    "Punteggio": "62.15.00",
+    "Codice Kangourou Scuola": "K006553",
+    "Scuola": "I.I.S. 'Giacomo Antonietti'",
+    "Comune": "ISEO"
+  },
+  {
+    "Cognome": "Rossi Barbanotti",
+    "Nome": "Enea",
+    "Punteggio": 46.5,
+    "Codice Kangourou Scuola": "K004408",
+    "Scuola": "Liceo Scientifico 'P. Bottoni'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Rotondaro",
+    "Nome": "Alberto",
+    "Punteggio": "72.15.00",
+    "Codice Kangourou Scuola": "K000885",
+    "Scuola": "Liceo Scientifico 'Galileo Ferraris'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Ruan",
+    "Nome": "Jiahao",
+    "Punteggio": 47.5,
+    "Codice Kangourou Scuola": "K000836",
+    "Scuola": "Liceo Scientifico 'Copernico'",
+    "Comune": "BOLOGNA"
+  },
+  {
+    "Cognome": "Rubini",
+    "Nome": "Samuele",
+    "Punteggio": 67,
+    "Codice Kangourou Scuola": "K006342",
+    "Scuola": "I.I.S. 'Falcone - Righi'",
+    "Comune": "CORSICO"
+  },
+  {
+    "Cognome": "Rudelli",
+    "Nome": "Francesco",
+    "Punteggio": "64.25.00",
+    "Codice Kangourou Scuola": "K000027",
+    "Scuola": "Liceo Scientifico Statale 'Lorenzo Mascheroni'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Rudelli",
+    "Nome": "Filippo",
+    "Punteggio": "53.15.00",
+    "Codice Kangourou Scuola": "K000027",
+    "Scuola": "Liceo Scientifico Statale 'Lorenzo Mascheroni'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "SFERRUZZA",
+    "Nome": "ALESSIO",
+    "Punteggio": "67.15.00",
+    "Codice Kangourou Scuola": "K003860",
+    "Scuola": "Liceo Classico Scientifico 'Ariosto Spallanzani'",
+    "Comune": "REGGIO EMILIA"
+  },
+  {
+    "Cognome": "Sacchi",
+    "Nome": "Roberto",
+    "Punteggio": 54.5,
+    "Codice Kangourou Scuola": "K006342",
+    "Scuola": "I.I.S. 'Falcone - Righi'",
+    "Comune": "CORSICO"
+  },
+  {
+    "Cognome": "Sain",
+    "Nome": "Rahul",
+    "Punteggio": "57.15.00",
+    "Codice Kangourou Scuola": "K006445",
+    "Scuola": "Scuola media Locarno 2 (Morettina) - SVIZZERA",
+    "Comune": "LOCARNO - SVIZZERA"
+  },
+  {
+    "Cognome": "Saita",
+    "Nome": "Riccardo",
+    "Punteggio": 75.5,
+    "Codice Kangourou Scuola": "K000028",
+    "Scuola": "Liceo Scientifico 'Lussana'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Salini",
+    "Nome": "Beatrice",
+    "Punteggio": "52.15.00",
+    "Codice Kangourou Scuola": "K000210",
+    "Scuola": "LICEO SCIENTIFICO STATALE",
+    "Comune": "PIACENZA"
+  },
+  {
+    "Cognome": "Salvadori",
+    "Nome": "Francesco",
+    "Punteggio": 68,
+    "Codice Kangourou Scuola": "K003872",
+    "Scuola": "Liceo Scientifico Statale 'Francesco Redi'",
+    "Comune": "AREZZO"
+  },
+  {
+    "Cognome": "Sanclemente",
+    "Nome": "Tommaso",
+    "Punteggio": 57.5,
+    "Codice Kangourou Scuola": "K003872",
+    "Scuola": "Liceo Scientifico Statale 'Francesco Redi'",
+    "Comune": "AREZZO"
+  },
+  {
+    "Cognome": "Sangoi",
+    "Nome": "Rebecca",
+    "Punteggio": "50.25.00",
+    "Codice Kangourou Scuola": "K000827",
+    "Scuola": "Liceo Scientifico Statale 'Giovanni Marinelli'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Scarpari",
+    "Nome": "Lorenzo",
+    "Punteggio": "55.25.00",
+    "Codice Kangourou Scuola": "K006553",
+    "Scuola": "I.I.S. 'Giacomo Antonietti'",
+    "Comune": "ISEO"
+  },
+  {
+    "Cognome": "Scerpella",
+    "Nome": "Enea",
+    "Punteggio": 50,
+    "Codice Kangourou Scuola": "K006396",
+    "Scuola": "Liceo cantonale di Bellinzona",
+    "Comune": "BELLINZONA - SVIZZERA"
+  },
+  {
+    "Cognome": "Schena",
+    "Nome": "Enrique",
+    "Punteggio": 52,
+    "Codice Kangourou Scuola": "K001538",
+    "Scuola": "Liceo di Mendrisio",
+    "Comune": "MENDRISIO - SVIZZERA"
+  },
+  {
+    "Cognome": "Scicolone",
+    "Nome": "Salvatore Patrick Maria",
+    "Punteggio": "53.25.00",
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "Sclauzero",
+    "Nome": "Michele",
+    "Punteggio": 68,
+    "Codice Kangourou Scuola": "K006216",
+    "Scuola": "I.S.I.S. 'A. Malignani'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Sconziano",
+    "Nome": "Andrea",
+    "Punteggio": "57.25.00",
+    "Codice Kangourou Scuola": "K002105",
+    "Scuola": "Liceo Scientifico 'Vittorini'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Scorletti",
+    "Nome": "Lucia",
+    "Punteggio": 52,
+    "Codice Kangourou Scuola": "K002105",
+    "Scuola": "Liceo Scientifico 'Vittorini'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Sergio",
+    "Nome": "Alessio",
+    "Punteggio": 55.5,
+    "Codice Kangourou Scuola": "K001885",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Shi",
+    "Nome": "Xinnan",
+    "Punteggio": "49.25.00",
+    "Codice Kangourou Scuola": "K006484",
+    "Scuola": "Liceo Scientifico Statale 'Arturo Tosi'",
+    "Comune": "BUSTO ARSIZIO"
+  },
+  {
+    "Cognome": "Sibillo",
+    "Nome": "Isabella",
+    "Punteggio": "62.15.00",
+    "Codice Kangourou Scuola": "K006721",
+    "Scuola": "ISTITUTO LEONE XIII",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "Sigismondi",
+    "Nome": "Simone",
+    "Punteggio": 83,
+    "Codice Kangourou Scuola": "K000028",
+    "Scuola": "Liceo Scientifico 'Lussana'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "Sigolo",
+    "Nome": "Sara",
+    "Punteggio": "71.15.00",
+    "Codice Kangourou Scuola": "K006908",
+    "Scuola": "Associazione Culturale StemUp",
+    "Comune": "Roma"
+  },
+  {
+    "Cognome": "Stampanoni",
+    "Nome": "Selina",
+    "Punteggio": 69,
+    "Codice Kangourou Scuola": "K000260",
+    "Scuola": "Liceo 'Lugano 2'",
+    "Comune": "SAVOSA - SVIZZERA"
+  },
+  {
+    "Cognome": "Stampetta",
+    "Nome": "Riccardo",
+    "Punteggio": 65,
+    "Codice Kangourou Scuola": "K006216",
+    "Scuola": "I.S.I.S. 'A. Malignani'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Stimamiglio",
+    "Nome": "Francesco",
+    "Punteggio": 45,
+    "Codice Kangourou Scuola": "K001882",
+    "Scuola": "Liceo Classico Statale 'Tito Livio'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Stoica",
+    "Nome": "Raluca",
+    "Punteggio": 57.5,
+    "Codice Kangourou Scuola": "K005408",
+    "Scuola": "Liceo 'Plinio Seniore'",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "TURCONI",
+    "Nome": "ALESSANDRO",
+    "Punteggio": 72,
+    "Codice Kangourou Scuola": "K006484",
+    "Scuola": "Liceo Scientifico Statale 'Arturo Tosi'",
+    "Comune": "BUSTO ARSIZIO"
+  },
+  {
+    "Cognome": "Tagiullo",
+    "Nome": "Leonardo",
+    "Punteggio": "58.25.00",
+    "Codice Kangourou Scuola": "K006684",
+    "Scuola": "ISTITUTO PONTIFICIO SANT'APOLLINARE",
+    "Comune": "ROMA"
+  },
+  {
+    "Cognome": "Tagliatti",
+    "Nome": "Giulia",
+    "Punteggio": "65.15.00",
+    "Codice Kangourou Scuola": "K004965",
+    "Scuola": "Liceo Scientifico Statale 'A. Tassoni'",
+    "Comune": "MODENA"
+  },
+  {
+    "Cognome": "Tarantino",
+    "Nome": "Matteo",
+    "Punteggio": "53.15.00",
+    "Codice Kangourou Scuola": "K000117",
+    "Scuola": "Liceo Scientifico Statale 'Cassini'",
+    "Comune": "GENOVA"
+  },
+  {
+    "Cognome": "Tengattini",
+    "Nome": "Cristian",
+    "Punteggio": "50.25.00",
+    "Codice Kangourou Scuola": "K006553",
+    "Scuola": "I.I.S. 'Giacomo Antonietti'",
+    "Comune": "ISEO"
+  },
+  {
+    "Cognome": "Terzi",
+    "Nome": "Francesco",
+    "Punteggio": 47,
+    "Codice Kangourou Scuola": "K001333",
+    "Scuola": "Liceo Statale 'Rinaldo Corso'",
+    "Comune": "CORREGGIO"
+  },
+  {
+    "Cognome": "Todde",
+    "Nome": "Lorenzo",
+    "Punteggio": 78,
+    "Codice Kangourou Scuola": "K000117",
+    "Scuola": "Liceo Scientifico Statale 'Cassini'",
+    "Comune": "GENOVA"
+  },
+  {
+    "Cognome": "Toniolo",
+    "Nome": "Giulia",
+    "Punteggio": 72,
+    "Codice Kangourou Scuola": "K006484",
+    "Scuola": "Liceo Scientifico Statale 'Arturo Tosi'",
+    "Comune": "BUSTO ARSIZIO"
+  },
+  {
+    "Cognome": "Toscano",
+    "Nome": "Alice",
+    "Punteggio": "58.25.00",
+    "Codice Kangourou Scuola": "K001297",
+    "Scuola": "Istituto Internazionale 'Edoardo Agnelli'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Traversin",
+    "Nome": "Samuele",
+    "Punteggio": "58.15.00",
+    "Codice Kangourou Scuola": "K006368",
+    "Scuola": "I.I.S. 'Einaudi - Scarpa'",
+    "Comune": "MONTEBELLUNA"
+  },
+  {
+    "Cognome": "Trivelloni",
+    "Nome": "Rebecca",
+    "Punteggio": 58,
+    "Codice Kangourou Scuola": "K000872",
+    "Scuola": "Liceo Scientifico 'E. Fermi'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Turati",
+    "Nome": "Carlo",
+    "Punteggio": "83.25.00",
+    "Codice Kangourou Scuola": "K006848",
+    "Scuola": "A. MESSEDAGLIA",
+    "Comune": "VERONA"
+  },
+  {
+    "Cognome": "Urbano",
+    "Nome": "Giorgia",
+    "Punteggio": "46.15.00",
+    "Codice Kangourou Scuola": "K006559",
+    "Scuola": "Liceo Scientifico 'Guglielmo Marconi'",
+    "Comune": "FOGGIA"
+  },
+  {
+    "Cognome": "Valseriati",
+    "Nome": "Marco",
+    "Punteggio": 72,
+    "Codice Kangourou Scuola": "K001184",
+    "Scuola": "Liceo Scientifico Statale 'Calini'",
+    "Comune": "BRESCIA"
+  },
+  {
+    "Cognome": "Van der Zijde",
+    "Nome": "Loek",
+    "Punteggio": 97,
+    "Codice Kangourou Scuola": "K004965",
+    "Scuola": "Liceo Scientifico Statale 'A. Tassoni'",
+    "Comune": "MODENA"
+  },
+  {
+    "Cognome": "Vendramin",
+    "Nome": "Alessandro",
+    "Punteggio": 59.5,
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Venturelli",
+    "Nome": "Leon",
+    "Punteggio": "56.25.00",
+    "Codice Kangourou Scuola": "K001619",
+    "Scuola": "I.I.S. 'Cattaneo - Dall'Aglio'",
+    "Comune": "CASTELNOVO NE' MONTI"
+  },
+  {
+    "Cognome": "Vianello",
+    "Nome": "Alberto",
+    "Punteggio": "82.15.00",
+    "Codice Kangourou Scuola": "K006216",
+    "Scuola": "I.S.I.S. 'A. Malignani'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Vicini",
+    "Nome": "Filippo",
+    "Punteggio": 54,
+    "Codice Kangourou Scuola": "K006553",
+    "Scuola": "I.I.S. 'Giacomo Antonietti'",
+    "Comune": "ISEO"
+  },
+  {
+    "Cognome": "Vigevano",
+    "Nome": "Riccardo",
+    "Punteggio": "45.25.00",
+    "Codice Kangourou Scuola": "K001943",
+    "Scuola": "Liceo Statale 'Primo Levi'",
+    "Comune": "SAN DONATO MILANESE"
+  },
+  {
+    "Cognome": "Vigliotta",
+    "Nome": "Maria",
+    "Punteggio": 82,
+    "Codice Kangourou Scuola": "K001040",
+    "Scuola": "Liceo Scientifico Statale 'Fanti'",
+    "Comune": "CARPI"
+  },
+  {
+    "Cognome": "Visca",
+    "Nome": "Alessandro",
+    "Punteggio": 109.5,
+    "Codice Kangourou Scuola": "K000286",
+    "Scuola": "Liceo Scientifico 'C. Cattaneo'",
+    "Comune": "TORINO"
+  },
+  {
+    "Cognome": "Vitarelli",
+    "Nome": "Emanuele",
+    "Punteggio": 57,
+    "Codice Kangourou Scuola": "K000048",
+    "Scuola": "Liceo Scientifico Statale 'A. Romita'",
+    "Comune": "CAMPOBASSO"
+  },
+  {
+    "Cognome": "Vodopivec",
+    "Nome": "Yuri",
+    "Punteggio": "81.25.00",
+    "Codice Kangourou Scuola": "K000827",
+    "Scuola": "Liceo Scientifico Statale 'Giovanni Marinelli'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Wu",
+    "Nome": "Chen Xi",
+    "Punteggio": "71.15.00",
+    "Codice Kangourou Scuola": "K000872",
+    "Scuola": "Liceo Scientifico 'E. Fermi'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "Ye",
+    "Nome": "Perla",
+    "Punteggio": "60.25.00",
+    "Codice Kangourou Scuola": "K004965",
+    "Scuola": "Liceo Scientifico Statale 'A. Tassoni'",
+    "Comune": "MODENA"
+  },
+  {
+    "Cognome": "Zambaiti",
+    "Nome": "Thomas",
+    "Punteggio": "64.25.00",
+    "Codice Kangourou Scuola": "K005421",
+    "Scuola": "Istituto Omnicomprensivo di Tarvisio",
+    "Comune": "TARVISIO"
+  },
+  {
+    "Cognome": "Zanetti",
+    "Nome": "Giacomo",
+    "Punteggio": "51.25.00",
+    "Codice Kangourou Scuola": "K000827",
+    "Scuola": "Liceo Scientifico Statale 'Giovanni Marinelli'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "Zanta",
+    "Nome": "Francesco",
+    "Punteggio": "71.25.00",
+    "Codice Kangourou Scuola": "K000291",
+    "Scuola": "Liceo Scientifico 'Leonardo da Vinci'",
+    "Comune": "TREVISO"
+  },
+  {
+    "Cognome": "Zedda",
+    "Nome": "Filippo Maria",
+    "Punteggio": 78,
+    "Codice Kangourou Scuola": "K000117",
+    "Scuola": "Liceo Scientifico Statale 'Cassini'",
+    "Comune": "GENOVA"
+  },
+  {
+    "Cognome": "Zhang",
+    "Nome": "Jianxiang Nicola",
+    "Punteggio": 73,
+    "Codice Kangourou Scuola": "K006848",
+    "Scuola": "A. MESSEDAGLIA",
+    "Comune": "VERONA"
+  },
+  {
+    "Cognome": "Zhou",
+    "Nome": "Gianni",
+    "Punteggio": "55.25.00",
+    "Codice Kangourou Scuola": "K003872",
+    "Scuola": "Liceo Scientifico Statale 'Francesco Redi'",
+    "Comune": "AREZZO"
+  },
+  {
+    "Cognome": "Zingaro",
+    "Nome": "Nicola",
+    "Punteggio": "48.25.00",
+    "Codice Kangourou Scuola": "K000048",
+    "Scuola": "Liceo Scientifico Statale 'A. Romita'",
+    "Comune": "CAMPOBASSO"
+  },
+  {
+    "Cognome": "Zoppetti",
+    "Nome": "Matteo",
+    "Punteggio": 59,
+    "Codice Kangourou Scuola": "K000028",
+    "Scuola": "Liceo Scientifico 'Lussana'",
+    "Comune": "BERGAMO"
+  },
+  {
+    "Cognome": "bavieri",
+    "Nome": "Christian",
+    "Punteggio": "53.25.00",
+    "Codice Kangourou Scuola": "K004965",
+    "Scuola": "Liceo Scientifico Statale 'A. Tassoni'",
+    "Comune": "MODENA"
+  },
+  {
+    "Cognome": "burei",
+    "Nome": "lorenzo",
+    "Punteggio": "58.15.00",
+    "Codice Kangourou Scuola": "K006156",
+    "Scuola": "Liceo Scientifico Statale 'Einstein '",
+    "Comune": "MILANO"
+  },
+  {
+    "Cognome": "cian",
+    "Nome": "pietro",
+    "Punteggio": "56.25.00",
+    "Codice Kangourou Scuola": "K001882",
+    "Scuola": "Liceo Classico Statale 'Tito Livio'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "de Marco",
+    "Nome": "Valentina",
+    "Punteggio": 70.5,
+    "Codice Kangourou Scuola": "K000299",
+    "Scuola": "Liceo Scientifico Statale 'Niccolò Copernico'",
+    "Comune": "UDINE"
+  },
+  {
+    "Cognome": "iocca",
+    "Nome": "emanuele",
+    "Punteggio": 48,
+    "Codice Kangourou Scuola": "K000048",
+    "Scuola": "Liceo Scientifico Statale 'A. Romita'",
+    "Comune": "CAMPOBASSO"
+  },
+  {
+    "Cognome": "la malfa",
+    "Nome": "sofia",
+    "Punteggio": "48.25.00",
+    "Codice Kangourou Scuola": "K004692",
+    "Scuola": "Liceo 'Leopardi - Majorana'",
+    "Comune": "PORDENONE"
+  },
+  {
+    "Cognome": "longo",
+    "Nome": "ruggero",
+    "Punteggio": "58.15.00",
+    "Codice Kangourou Scuola": "K001882",
+    "Scuola": "Liceo Classico Statale 'Tito Livio'",
+    "Comune": "PADOVA"
+  },
+  {
+    "Cognome": "maroni",
+    "Nome": "giovanni battista",
+    "Punteggio": 52,
+    "Codice Kangourou Scuola": "K001498",
+    "Scuola": "Liceo 'Camillo Golgi'",
+    "Comune": "BRENO"
+  },
+  {
+    "Cognome": "massa",
+    "Nome": "matteo",
+    "Punteggio": 97,
+    "Codice Kangourou Scuola": "K004912",
+    "Scuola": "Liceo Scientifico Statale 'G. Marconi'",
+    "Comune": "CARRARA"
+  },
+  {
+    "Cognome": "mauri",
+    "Nome": "mattia",
+    "Punteggio": "66.15.00",
+    "Codice Kangourou Scuola": "K006095",
+    "Scuola": "Scuola media 'Pregassona'",
+    "Comune": "PREGASSONA - SVIZZERA"
+  }
+]
